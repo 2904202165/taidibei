@@ -1,0 +1,65 @@
+from selenium import webdriver
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+import csv
+
+chromedriver_path = 'C:\Program Files\Google\Chrome\Application\chromedriver.exe'
+options = webdriver.ChromeOptions()
+# options.add_argument('--headless')  # 无界面运行Chrome
+driver = webdriver.Chrome(service=Service(executable_path=chromedriver_path), options=options)
+
+job_writer = csv.writer(open('result1-1.csv', 'w', encoding='utf-8', newline=''))
+job_writer.writerow(['招聘信息ID', '公司名称', '招聘岗位', '城市', '薪资', '链接'])
+
+resume_writer = csv.writer(open('result1-2.csv', 'w', encoding='utf-8', newline=''))
+resume_writer.writerow(['求职者ID', '姓名', '城市', '求职意向', '期望薪资', '链接'])
+
+urls = ['https://www.5iai.com/#/jobList', 'https://www.5iai.com/#/moreResume']
+for url in urls:
+    driver.get(url)
+
+    if url == 'https://www.5iai.com/#/jobList':
+        job_ids = [int(element.get_attribute('href').split('/')[-1]) for element in driver.find_elements(By.XPATH, '//div[@class="shortlist"]/a')]
+        resume_ids = [int(a.get_attribute('href').split('/')[-1]) for a in driver.find_elements(By.CSS_SELECTOR, 'div.resume-photos > a')]
+    else:
+        job_ids = [int(element.get_attribute('href').split('/')[-1]) for element in driver.find_elements(By.CSS_SELECTOR, 'div.JobList-item > a')]
+        resume_ids = []
+        page = 1  # 设置当前页数
+        max_page = 20  # 设置最大爬取页数
+        while page <= max_page:
+            # 打开下一页
+            driver.get(f'https://www.5iai.com/#/moreResume/{page}')
+            resume_ids += [int(a.get_attribute('href').split('/')[-1]) for a in driver.find_elements(By.CSS_SELECTOR, 'div.resume-photos > a')]
+            page += 1
+
+    for job_id in job_ids:
+        job_detail_url = f'https://www.5iai.com/#/job/{job_id}'
+        driver.get(job_detail_url)
+
+        try:
+            company_name = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CLASS_NAME, 'job-company'))).text.strip()
+            job_title = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CLASS_NAME, 'job-title'))).text.strip()
+            city = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CLASS_NAME, 'job-address'))).text.strip()
+            salary = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CLASS_NAME, 'job-salary'))).text.strip()
+            job_writer.writerow([job_id, company_name, job_title, city, salary, job_detail_url])
+        except:
+            print(f'爬取"{job_detail_url}"的招聘信息失败！')
+
+    for resume_id in resume_ids:
+        resume_detail_url = f'https://www.5iai.com/resume/{resume_id}'
+        driver.get(resume_detail_url)
+
+        try:
+            name = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, 'span.name'))).text.strip()
+            city = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, 'span.city'))).text.strip()
+            intention = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, 'span.intention'))).text.strip()
+            expect_salary = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, 'span.salary'))).text.strip()
+            resume_writer.writerow([resume_id, name, city, intention, expect_salary, resume_detail_url])
+        except:
+            print(f'爬取"{resume_detail_url}"的简历信息失败！')
+
+    print(f'爬取"{url}"页面的招聘和求职信息完成！')
+
+driver.quit()
