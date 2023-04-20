@@ -1,53 +1,95 @@
-from selenium import webdriver
-from selenium.webdriver.chrome.service import Service
-import csv
-from selenium.webdriver.common.by import By
-# 设置ChromeDriver路径及参数
-chromedriver_path = 'C:\Program Files\Google\Chrome\Application\chromedriver.exe'
-options = webdriver.ChromeOptions()
-# options.add_argument('--headless')  # 无界面运行Chrome
+import requests
+from bs4 import BeautifulSoup
+import pandas as pd
+import seaborn as sns
+url = 'https://www.5iai.com/#/index'
+headers = {
+'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.48'
+}
+respose = requests.get(url,headers=headers)
+html = respose.text
+soup = BeautifulSoup(html,'html.parser')
+job_list = soup.findAll('div',class_='jbo_list')[0]
+jobs = soup.findAll('div',class_='job-item')
+for job in jobs:
+    job_id = job['data-jobid']
+    company_name = job.find("div", class_="company-name").text
+    job_name = job.find("a", class_="job-name").text  # 职位名称
+    salary = job.find("span", class_="salary").text  # 薪资
+    education = job.find("span", class_="education").text  # 学历要
+    experience = job.find("span", class_="experience").text  # 工作
+    resume_list = soup.find_all("div", class_="resume-list")[0]  # 获取求职信息容器
+    resumes = resume_list.find_all("div", class_="resume-item")  # 获取所有求职信息
+    for resume in resumes:
+        # 提取关键信息
+        resume_id = resume["data-resumeid"]  # 求职者 ID
+        name = resume.find("div", class_="name").text  # 求职者姓名
+        wanted_job = resume.find("div", class_="wanted-job").text  # 求职意向
+        education = resume.find("div", class_="education").text  # 学历
+        work_years = resume.find("div", class_="work-years").text  #
 
-# 初始化webdriver
-s = Service(chromedriver_path)
-wd = webdriver.Chrome(service=s, options=options)
 
-# 创建CSV文件写入器，用于保存招聘和求职信息
-job_writer = csv.writer(open('result1-1.csv', 'w', encoding='utf-8', newline=''))
-job_writer.writerow(['招聘信息ID', '公司名称', '招聘岗位', '城市', '薪资'])
+job_data = [] # 存储招聘信息
+for job in jobs:
+ # 提取关键信息
+ job_id = job["data-jobid"] # 招聘信息 ID
+ company_name = job.find("div", class_="company-name").text
+# 公司名称
+job_name = job.find("a", class_="job-name").text # 职位名称
+salary = job.find("span", class_="salary").text # 薪资
+education = job.find("span", class_="education").text # 学历要
 
-resume_writer = csv.writer(open('result1-2.csv', 'w', encoding='utf-8', newline=''))
-resume_writer.writerow(['求职者ID', '姓名', '城市', '求职意向', '期望薪资'])
-
-# 爬取“找工作”页面和“找人才”页面的数据
-urls = [
-    'https://www.5iai.com/#/jobList',  # 找工作页面
-    'https://www.5iai.com/#/moreResume'  # 找人才页面
-]
-for url in urls:
-    # 打开起始页面
-    wd.get(url)
-
-    if url == 'https://www.5iai.com/#/jobList':
-        # 提取所有招聘信息数据并保存到CSV文件中
-        job_items = wd.find_elements(By.CSS_SELECTOR, 'el-radio-button__inner')
-        for job_item in job_items:
-            job_id = job_item.find_element(By.CSS_SELECTOR, 'cTxt').get_attribute('href').split('/')[-1]
-            company_name = job_item.find_element(By.CSS_SELECTOR, 'tit').text.strip()
-            job_title = job_item.find_element(By.CSS_SELECTOR, 'position').text.strip()
-            city = job_item.find_element(By.CSS_SELECTOR, 'cTxt').text.strip()
-            salary = job_item.find_element(By.CSS_SELECTOR, 'datePay').text.strip()
-            job_writer.writerow([job_id, company_name, job_title, city, salary])
-    else:
-        # 提取所有求职信息数据并保存到CSV文件中
-        resume_items = wd.find_elements(By.CSS_SELECTOR, 'expectPosition')
-        for resume_item in resume_items:
-            resume_id = resume_item.find_element(By.CSS_SELECTOR, 'position').get_attribute('href').split('/')[-1]
-            name = resume_item.find_element(By.CSS_SELECTOR, 'position').text.strip()
-            city = resume_item.find_element(By.CSS_SELECTOR, 'intro').text.strip()
-            intention = resume_item.find_element(By.CSS_SELECTOR, 'expectPosition').text.strip()
-            expect_salary = resume_item.find_element(By.CSS_SELECTOR, '.salary').text.strip()
-            resume_writer.writerow([resume_id, name, city, intention, expect_salary])
-
-    print(f'爬取"{url}"页面的招聘和求职信息完成！')
-
-wd.quit()
+experience = job.find("span", class_="experience").text # 工作
+job_dict = {
+ "job_id": job_id,
+ "company_name": company_name,
+ "job_name": job_name,
+ "salary": salary,
+ "education": education,
+ "experience": experience
+ }
+job_data.append(job_dict)
+resume_data = [] # 存储求职信息
+for resume in resumes:
+    resume_id = resume["data-resumeid"] # 求职者 ID
+    name = resume.find("div", class_="name").text # 求职者姓名
+    wanted_job = resume.find("div", class_="wanted-job").text # 求职意向
+    education = resume.find("div", class_="education").text # 学历
+    work_years = resume.find("div", class_="work-years").text #
+    resume_dict = {
+ "resume_id": resume_id,
+ "name": name,
+ "wanted_job": wanted_job,
+ "education": education,
+ "work_years": work_years
+ }
+    resume_data.append(resume_dict)
+# 转换为 DataFrame 格式
+job_df = pd.DataFrame(job_data)
+resume_df = pd.DataFrame(resume_data)
+# 去除重复数据
+job_df.drop_duplicates(subset=["job_id"], keep="first", inplace=True)
+resume_df.drop_duplicates(subset=["resume_id"], keep="first",
+inplace=True)
+# 去除缺失数据和不合法数据
+job_df.dropna(inplace=True)
+resume_df.dropna(inplace=True)
+job_df = job_df[job_df["education"].str.contains("本科|硕士|博士")]
+resume_df = resume_df[resume_df["education"].str.contains("本科|硕士|博士")]
+# 数据格式转换
+job_df["salary"] = job_df["salary"].apply(lambda x: int(x[:-1]) * 1000 if
+"k" in x else int(x))
+resume_df["work_years"] = resume_df["work_years"].apply(lambda x:
+int(x[:-1]) if "年" in x else 0)
+import matplotlib.pyplot as plt
+# 绘制招聘与求职信息的条形图
+job_heatmap = pd.pivot_table(job_df, values="salary",
+index=["experience"], columns=["education"], aggfunc="mean")
+resume_heatmap = pd.pivot_table(resume_df, values="work_years",
+index=["wanted_job"], columns=["education"], aggfunc="mean")
+fig, ax = plt.subplots(1, 2, figsize=(12, 6))
+job_heatmap = pd.pivot_table(job_df, values="salary",
+index=["experience"], columns=["education"], aggfunc="mean")
+resume_heatmap = pd.pivot_table(resume_df, values="work_years",
+index=["wanted_job"], columns=["education"], aggfunc="mean")
+fig, ax = plt.subplots(1, 2, figsize=(12, 6))
