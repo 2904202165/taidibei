@@ -1,1738 +1,587 @@
-正在爬取第1页
-数据挖掘工程师
-数据管理
-算法工程师
-数据标注员
-会计实习生
-技术服务工程师
-大数据分析师（BI）
-自然语言处理工程师
-爬虫工程师
-Python/django后台开发工程师
-正在爬取第2页
-数据挖掘工程师
-数据管理
-算法工程师
-数据标注员
-会计实习生
-技术服务工程师
-大数据分析师（BI）
-自然语言处理工程师
-爬虫工程师
-Python/django后台开发工程师
-正在爬取第3页
-团队运营管理实习生
-技术文章撰写实习生
-创新俱乐部成员
-解决方案
-产品总监
-大数据架构师
-大数据系统分析师
-AI类数据标注
-大数据开发工程师
-数据产品经理
-正在爬取第4页
-团队运营管理实习生
-技术文章撰写实习生
-创新俱乐部成员
-数据挖掘工程师
-python工程师
-数据实施实习生
-数据分析师
-数据产品经理
-数据分析师
-大数据开发工程师
-正在爬取第5页
-数据分析师
-交易风控员
-大数据开发工程师
-数据分析师
-数据工程师
-数据工程师
-数据工程师
-大数据工程师
-数据分析经理
-数据分析员
-正在爬取第6页
-大数据开发实习生
-数仓开发
-实施工程师
-高级业务架构师
-数据开发工程师
-数据分析师
-数据工程师
-Data Governance数据治理
-数据分析师
-电商运营助理
-正在爬取第7页
-大数据开发实习生
-数仓开发
-实施工程师
-高级业务架构师
-数据开发工程师
-数据分析师
-数据工程师
-Data Governance数据治理
-数据分析师
-电商运营助理
-正在爬取第8页
-渠道运营总监
-数字化创新人才
-银行数据分析师
-高级数据分析师
-数据分析师
-亚马逊数据分析师
-数据分析助理初级
-数据分析师
-销售经理
-数据分析师
-正在爬取第9页
-数据开发工程师
-ETL开发工程师
-数据开发工程师
-ETL开发工程师
-互联网产品经理
-数据分析员
-产业链数字专员
-数字化工程师
-电商战略分析师
-商业数据分析师
-正在爬取第10页
-工程师助理
-数据分析员
-数据运营专员
-数据分析师
-语音前端算法研发工程师
-数据分析助理工程师
-遗留判定分析工程师
-遗留数据分析专员
-前端工程师
-Python爬虫工程师
-正在爬取第11页
-数据分析师
-技术后端
-数据实施工程师
-数据分析助理
-NLP算法研究员
-数据处理工程师
-NLP算法研究员
-数据处理工程师
-NLP算法研究员
-数据处理工程师
-正在爬取第12页
-数据分析师
-技术后端
-数据实施工程师
-数据分析助理
-NLP算法研究员
-数据处理工程师
-NLP算法研究员
-数据处理工程师
-NLP算法研究员
-数据处理工程师
-正在爬取第13页
-数据运营
-大数据分析师
-数据处理工程师
-NLP算法研究员
-商品数据分析专员
-区域督导
-视频数据标注
-运维工程师（大数据）
-数据分析师
-在线客服
-正在爬取第14页
-选品员
-web前端开发工程师
-商务拓展（BD）总监
-中国移动10086客户服务代表
-电商数据分析
-天猫运营
-运营助理
-在线客服
-电商数据分析师
-电商客服
-正在爬取第15页
-选品员
-web前端开发工程师
-商务拓展（BD）总监
-中国移动10086客户服务代表
-电商数据分析
-数据分析师
-产品专员
-商业分析师/数据分析师
-BI工程师
-大数据架构师
-正在爬取第16页
-国际物流客服专员
-数据分析师
-试验检测工程（员）师
-水利大数据分析师
-数据分析师
-IT运维经理
-影视动画设计师
-高级数据分析师（成人教育方向）
-pmo项目经理
-HRIS
-正在爬取第17页
-国际物流客服专员
-数据分析师
-试验检测工程（员）师
-水利大数据分析师
-数据分析师
-IT运维经理
-大数据工程师
-质检工程师
-物流招商经理
-数据分析师
-正在爬取第18页
-bi数据分析师
-桥梁工程师
-助理检测师
-桥梁健康监测数据分析师
-技术管理岗
-产品实施工程师
-大数据工程师
-质检工程师
-物流招商经理
-数据分析师
-正在爬取第19页
-人力资源经理
-会计
-BI数据分析师
-游戏研发工程师
-软件开发工程师
-大数据开发工程师
-工业大数据工程师
-研发文员
-嵌入式软件实习生
-数据分析师
-正在爬取第20页
-人力资源经理
-会计
-BI数据分析师
-游戏研发工程师
-软件开发工程师
-大数据开发工程师
-工业大数据工程师
-研发文员
-嵌入式软件实习生
-数据分析师
-正在爬取第21页
-管理培训生（技术支持方向）
-管理培训生（销售方向）
-数据分析师
-销售助理/销售代表
-.NET开发工程师
-实施工程师
-NET开发（实习生/应届生）
-数据库管理员
-运维工程师
-测试工程师
-正在爬取第22页
-管理培训生（技术支持方向）
-管理培训生（销售方向）
-数据分析师
-销售助理/销售代表
-数据分析
-实施顾问
-技术支持
-销售代表
-售后和实施工程师
-JAVA开发工程师
-正在爬取第23页
-大数据开发工程师
-Java高级开发工程师
-Java高级开发工程师
-项目负责人
-Java初级开发工程师
-JAVA工程师
-php工程师
-测试工程师
-运维工程师
-临床研究数据分析员
-正在爬取第24页
-电商数据分析
-技术支持
-电商数据分析
-游戏客服专员
-技术支持
-软件开发工程师
-图像算法工程师
-大数据架构师
-数据支持工程师
-临床研究数据分析员
-正在爬取第25页
-电商数据分析
-量化实习生
-前端工程师
-算法工程师
-数据工程师
-呼叫专员/实习生
-新媒体运营（线上商机）专员/实习生
-渠道拓客专员/实习生
-技术支持
-产品运营实习生
-正在爬取第26页
-电商数据分析
-量化实习生
-前端工程师
-算法工程师
-数据工程师
-开发-广州银行项目
-开发-广州银行项目
-开发-广州银行项目
-数据开发-广州银行项目
-数据开发岗-广州银行项目
-正在爬取第27页
-数据开发岗-广州银行项目
-数据开发岗-广州银行项目
-测试(初级)-广州银行项目
-应用环境支持-广州银行项目
-测试(中级)-广州银行项目
-测试(中级)-广州银行项目
-测试(中级)-广州银行项目
-测试(中级)-广州银行项目
-开发-广州银行项目
-开发、数据开发-广州银行项目
-正在爬取第28页
-测试岗-广州银行项目
-测试岗-广州银行项目
-项目助理岗-广州银行项目
-测试(高级)-广州银行项目
-测试岗-广州银行项目
-测试(中级)-广州银行项目
-测试(中级)-广州银行项目
-需求分析岗-广州银行项目
-开发-广州银行项目
-软件技术支持
-正在爬取第29页
-开发-广州银行项目
-数据开发岗-广州银行项目
-硬件技术支持
-Android应用开发工程师
-C/C++软件开发工程师
-嵌入式软件开发工程师（Linux方向）
-Web后台开发工程师
-Web前端开发工程师
-软件测试工程师
-软件技术支持
-正在爬取第30页
-硬件工程师
-电源工程师
-PCB工程师
-硬件测试工程师
-渠道销售
-大客户销售
-结构设计师
-大数据开发工程师
-外贸销售
-售后工程师
-正在爬取第31页
-销售工程师
-伺服研发工程师
-嵌入式软件工程师
-算法工程师
-电商数据分析师
-电商客服专员
-数据实施顾问
-客户专员（管培生）
-驻场oppo-测试工程师
-射频工程师
-正在爬取第32页
-销售工程师
-咨询经理
-数据标注员
-实施工程师
-JAVA开发工程师
-软件测试开发工程师
-游戏测试工程师
-软件测试工程师
-JAVA开发
-数据实习生
-正在爬取第33页
-Java开发工程师（广州/重庆/福州都有招聘）
-数据库管理员（广州）
-网络工程师/系统工程师（广州）
-百度数据标注员
-大数据开发工程师-运通信息
-初级安服工程师
-视觉应用工程师
-高德地图数据编辑
-客服顾问
-比价审核岗
-正在爬取第34页
-Java开发工程师（广州/重庆/福州都有招聘）
-数据库管理员（广州）
-客服专员
-AI平台研发工程师（实习）
-AI算法工程师（实习）
-校招岗位
-测试工程师
-大数据开发工程师
-数据库开发工程师
-前端开发工程师
-正在爬取第35页
-直播审核岗
-电商客服
-银行账单分期专员
-管培生
-2022校招-优粤生
-新零售管培生
-交互与视觉设计
-知识专员
-实习生
-数据服务部工程师
-正在爬取第36页
-创意设计
-互联网运营
-终端培训师
-服务技术顾问
-服务体验顾问
-线上服务顾问
-体验店顾问
-终端销售代表
-实习生
-高级数据分析师/主管
-正在爬取第37页
-产品经理
-数据产品技术经理
-数据分析师
-数据分析师
-数据分析师（广州）
-人力资源数据分析师
-人力资源数据分析师
-高级数据分析师/主管
-数据分析师
-高级数据分析师/主管
-正在爬取第38页
-数据分析师
-产品经理
-大数据产品经理
-高级产品经理
-etl开发工程师
-ETL数据库开发工程师
-NLP算法工程师
-数据产品经理
-Planning Analyst 数据分析员
-阿里灵犀互娱-游戏数据分析师-广州
-正在爬取第39页
-数据分析师
-产品经理
-大数据产品经理
-高级数据分析师
-（资深/高级）数据分析师
-(高级）数据分析师
-（高级）数据分析师-顾客体验及数字化业务
-高级数据分析师（经理级）
-高级数据分析师
-（资深/高级）数据分析师
-正在爬取第40页
-阿里灵犀互娱-游戏数据分析师-广州
-大文娱互动娱乐事业部-高级数据产品经理-买量平台
-（高级）数据分析师-顾客体验及数字化业务
-（高级）数据分析师-顾客体验及数字化业务
-算法工程师 - 自然语言处理
-数据分析师（数据开发方向）
-数据分析师（数据开发方向）
-产品经理
-数据产品技术经理
-数据分析师
-正在爬取第41页
-数据分析师
-数据分析师（广州）
-人力资源数据分析师
-人力资源数据分析师
-高级数据分析师/主管
-数据分析师
-高级数据分析师/主管
-数据分析师
-产品经理
-大数据产品经理
-正在爬取第42页
-高级产品经理
-etl开发工程师
-ETL数据库开发工程师
-NLP算法工程师
-产品经理
-产品行销经理
-测试经理（数据库产品）
-医学统计/数据管理专员
-BA Data analyst 数据分析师
-BA Data analyst 数据分析师
-正在爬取第43页
-高级产品经理
-etl开发工程师
-ETL数据库开发工程师
-资深游戏数据分析师
-国际化广告数据分析师
-数据分析师 - 国际化直播
-数据分析师
-资深游戏数据分析师
-资深游戏数据分析师
-游戏数据研究员
-正在爬取第44页
-商业化数据产品经理
-数据产品经理（稻壳）
-数据分析师
-数据分析师
-产品经理
-数据产品技术经理
-数据分析师
-数据分析师
-数据分析师（广州）
-数据分析师（广州）
-正在爬取第45页
-产品经理
-产品经理
-高级产品经理
-大数据产品经理
-运营数据产品经理
-数据治理工程师-广州
-中级数据分析师-广州
-中级数据分析师-广州
-数据分析员
-制药行业主数据产品经理
-正在爬取第46页
-数据分析师/高级数据分析师(J13098)
-高级数据产品经理
-TiDB数据库高级产品经理
-数据库内核产品经理
-高级数据分析师
-资深数据分析师
-高级数据分析师
-资深数据分析师
-高级客户经理（气象大数据产品）
-产品经理（气象大数据产品）
-正在爬取第47页
-零售行业主数据产品经理(J10281)
-数据分析师/BI
-数据分析师-GZ
-数据分析师-GZ
-数据产品运营经理-GZ
-高级数据产品经理
-数据分析师
-数据分析师
-高级客户经理（气象大数据产品）
-产品经理（气象大数据产品）
-正在爬取第48页
-数据分析运营专员
-数据分析师（发展前景+双休）
-数据分析师（发展前景+双休）
-产品经理
-数据产品技术经理
-数据分析师
-数据分析师
-自然语言处理/NLP工程师（2019校园招聘）
-资深数据分析师
-资深数据分析师
-正在爬取第49页
-数据治理/数据中台产品经理
-数据产品经理（商业化方向）
-高级媒介专员（数据分析方向）
-数据产品经理
-大数据产品经理
-贝壳找房-广州站-数据分析专员
-贝壳找房-广州站-交易数据分析专员
-数据产品经理
-资深数据分析师
-数据分析师
-正在爬取第50页
-资深数据分析师
-资深数据分析师
-项目交付工程师（数据治理）
-科学家/研究员/工程师（NLP）-创新工场AI工程院
-高级数据分析师
-数据分析师（商品方向）
-数据分析师
-高级数据分析师
-数据分析师（商品方向）
-数据分析师
-正在爬取第51页
-数据产品经理
-数据产品经理/高级经理
-数据中台产品经理
-数据分析师
-ETL开发工程师
-ETL开发工程师
-数据分析师
-数据分析师
-Data Analyst/Business Analyst
-数据分析师
-正在爬取第52页
-Data Analyst
-数据分析师
-数据分析专员
-数据分析师
-数据分析师
-大数据产品经理（智能网联合资公司）
-大数据产品经理（数字营销方向）
-数据分析师
-数据分析师
-数据分析师
-正在爬取第53页
-数据分析师
-数据分析师-广州
-数据分析师-广州
-ETL开发工程师
-NLP算法专家/工程师
-大数据算法产品经理
-高级数据产品经理
-数据分析师
-数据分析师(J10380)
-数据分析师（独立站）
-正在爬取第54页
-数据分析师
-数据分析师(J10380)
-数据分析师
-数据分析师
-数据分析工程师（NLP方向）(J11892)
-业务数据分析师
-业务数据分析师
-数据分析专员
-数据分析师
-数据分析师
-正在爬取第55页
-大数据产品经理（智能网联合资公司）
-大数据产品经理（数字营销方向）
-数据分析师
-数据分析师
-数据分析师
-数据分析师
-数据分析师-广州
-数据分析师-广州
-ETL开发工程师
-NLP算法专家/工程师
-正在爬取第56页
-大数据产品经理（智能网联合资公司）
-大数据产品经理（数字营销方向）
-数据分析师
-数据分析师(J10380)
-数据分析师（独立站）
-数据分析师
-数据分析师(J10380)
-数据分析师
-数据产品经理
-自然语言处理工程师
-正在爬取第57页
-业务数据分析师
-业务数据分析师
-财务数据分析师
-财务数据分析师
-数据分析师
-数据分析师
-数据分析师
-数据分析专员
-数据产品经理
-自然语言处理工程师
-正在爬取第58页
-数据产品经理
-产品经理（数据方向）
-高级数据产品经理
-数据产品经理
-数据分析员
-数据分析专员
-ETL开发工程师 (MJ001915)
-数据分析师（广州）
-数据分析师 (MJ001550)
-数据分析师（广州）
-正在爬取第59页
-数据分析师 (MJ001550)
-数据产品经理 (MJ000031)
-数据分析专员（2022届校招）
-数据治理项目高级开发工程师
-大数据平台产品经理
-数据产品经理
-算法工程师（推荐/NLP/机器学习）
-数据中台产品经理
-大数据应用产品经理
-大数据应用产品经理（中高级）
-正在爬取第60页
-大数据高级产品经理
-数据产品经理
-大数据产品经理
-大数据产品经理/总监
-大数据产品经理 校招
-数据产品经理（可视化工具）
-数据产品经理（初中级）
-数据分析师
-数据分析师
-大数据产品经理
-正在爬取第61页
-电商产品数据分析(J10169)
-产品经理（家具）(J10169)
-爆品产品经理(J10169)
-电商产品经理(J10169)
-财务数据产品经理（BI）(J11008)
-数据产品经理(J10954)
-ETL开发工程师
-大数据产品经理
-PM产品经理（数据中台）
-数据分析师（数据BP)
-正在爬取第62页
-数据分析师（数据BP)
-数据产品经理
-数据治理工程师
-大数据产品经理
-生物信息工程师/临床数据分析师
-生物信息工程师/临床数据分析师
-数据产品经理
-数据治理工程师
-nlp高级算法工程师
-商品数据分析专员
-正在爬取第63页
-数据分析专员
-高级数据分析专员（游戏广告）
-计算机视觉研发工程师
-高级数据分析师
-高级数据分析师
-数据分析师
-数据分析师
-数据分析师
-数据分析师
-产品经理
-正在爬取第64页
-数据分析师
-数据专员（天猫电商数据分析）
-项目数据分析师
-数据分析师（商业地产及零售行业）
-项目数据分析师
-数据分析师（商业地产及零售行业）
-选址SAAS产品经理
-数据产品经理
-数据分析师 (MJ002723)
-数据分析师 (MJ002723)
-正在爬取第65页
-选址SAAS产品经理
-行业门户APP产品经理
-广州产品经理
-产品经理（大数据后台）
-大数据后台产品经理
-资深数据产品经理
-数据产品经理
-数据产品经理
-数据分析师 (MJ002723)
-数据分析师 (MJ002723)
-正在爬取第66页
-数据分析师 (MJ002723)
-nlp算法工程师
-商品数据分析专员
-数据分析师（Fine BI/Report）
-数据分析师
-数据分析师（Fine BI/Report）
-数据采集分析员
-数据分析师
-数据分析师
-战客部数据分析岗
-正在爬取第67页
-数据分析师
-数据分析师
-数据平台产品（专业）经理
-数据产品经理
-数据分析师（数据挖掘方向）
-数据分析师（数据挖掘方向）
-数据分析师
-数据分析师
-数据治理工程师
-战客部数据分析岗
-正在爬取第68页
-车联网大数据运用
-车联网大数据运用
-数据分析师
-数据分析师
-数据分析师
-高级数据分析师
-数据分析师
-高级数据分析师
-产品经理（大数据应用）
-产品经理（大数据项目）
-正在爬取第69页
-数据分析师
-数据分析师
-商品企划经理
-数据分析专员
-数据分析师
-高级数据分析师
-数据分析师
-高级数据分析师
-nlp算法工程师
-自然语言处理工程师
-正在爬取第70页
-ETL开发工程师
-运营助理
-数据分析专员
-高级数据分析师
-数据分析师（投放向） (MJ000326)
-高级数据分析师
-数据分析师（投放向） (MJ000326)
-计算机视觉工程师
-计算机视觉工程师
-BI Engineer/ Data Analyst
-正在爬取第71页
-客服中心运营专员（数据分析）
-数据分析专员-广州【2022届校招】
-NLP算法工程师
-etl开发工程师
-数据分析专员
-ETL开发工程师
-计算机视觉语义理解算法工程师
-数据分析师（22届校招）
-数据分析师（22届校招）
-数据分析专员
-正在爬取第72页
-大数据分析员
-数据分析师（运营支持）
-数据分析师（运营支持）
-跨境电商数据分析专员
-产品经理（数据类）
-产品经理（数据类）
-产品经理（大数据方向）
-NLP算法工程师
-销售数据分析师
-销售数据分析师
-正在爬取第73页
-销售数据分析师
-数据产品经理
-屈臣氏渠道专员（数据统计分析方向+近地铁）
-高级数据分析师
-高级数据分析师
-数据分析师
-数据分析师
-数据分析师
-数据分析师
-产品经理
-正在爬取第74页
-算法工程师
-（中高级）数据分析师
-（中高级）数据分析师
-大数据产品经理（高级）
-电力工程师/技术员
-数据产品经理
-数据产品经理
-数据分析师
-高级数据分析师
-数据分析师
-正在爬取第75页
-高级数据分析师
-数据分析师
-数据分析师
-数据分析师
-数据分析师
-自然语言处理工程师（NLP）
-数据分析师（服装品类）
-数据分析师（服装品类）
-医学数据分析师
-医学数据分析师
-正在爬取第76页
-BA商业分析师/数据分析师
-BA商业分析师/数据分析师
-数据分析师
-数据分析师
-数据分析师
-数据分析师
-大数据产品销售经理
-数据分析专员
-数据分析师
-数据分析师
-正在爬取第77页
-数据产品经理
-计算机视觉算法工程师（深度...
-计算机视觉算法工程师 (MJ000510)
-计算机视觉算法高级工程师-AI审核方向
-数据分析师
-数据分析师
-高级nlp算法工程师
-NLP算法工程师 (MJ003321)
-NLP高级工程师
-数据分析师 (MJ003742)
-正在爬取第78页
-数据分析师（电商） (MJ004080)
-数据分析师（国际化） (MJ003534)
-数据分析师 (MJ003570)
-数据分析师 (MJ003742)
-数据分析师（电商） (MJ004080)
-数据分析师（国际化） (MJ003534)
-数据分析师 (MJ003570)
-数据平台产品经理
-电商助理
-环保数据分析员
-正在爬取第79页
-数据产品经理 (MJ003187)
-数据产品经理（电商） (MJ004437)
-数据安全产品经理 (MJ004420)
-数据产品经理 (MJ000702)
-计算机视觉算法工程师 (MJ004259)
-计算机视觉算法工程师 (MJ001970)
-电商运营
-天猫助理
-电商助理
-环保数据分析员
-正在爬取第80页
-数据产品经理
-图像&NLP 算法工程师(J10323)
-数据分析师
-数据分析师
-数据产品经理
-NLP算法工程师 (MJ000080)
-产品经理
-数据分析专员
-高级产品经理（大数据平台）
-亚马逊产品开发（数据分析员）（美妆个护时尚方向）
-正在爬取第81页
-数据产品经理(J12754)
-大数据开发工程师（数据治理）
-java开发工程师（数据治理）
-大数据产品经理-公安行业
-nlp算法工程师
-NLP算法工程师（接受优秀应届毕业生）
-nlp算法工程师
-数据分析师（接受优秀应届生）
-数据分析师（接受优秀应届生）
-数据分析师
-正在爬取第82页
-资深NLP算法工程师
-NLP算法工程师
-数据分析专员
-数据产品经理
-数据分析师
-数据分析师
-数据产品经理 / BI实施顾问 (职位编号：CP10)
-BI工程师
-数据分析师
-数据分析师
-正在爬取第83页
-数据产品经理(J34YP)
-数据产品经理
-资深数据分析师
-高级数据分析师
-资深数据分析师
-高级数据分析师
-自然语言处理算法工程师
-数据分析师
-数据分析师
-高级数据分析师
-正在爬取第84页
-高级数据分析师
-高级数据分析师
-高级数据分析师
-数据分析师
-数据分析师
-数据分析师
-数据分析师
-行业调研数据分析师（广州-校招）ID94080
-行业调研数据分析师（广州-校招）ID94080
-数据分析师(编号D1#0723）
-正在爬取第85页
-数据分析师(编号D1#0723）
-计算机视觉算法研究工程师
-计算机视觉算法研究工程师
-电商数据分析专员
-数据分析师
-数据分析师
-数据分析师-[465681]
-数据分析师-[465681]
-NLP算法工程师(J10631)
-NLP算法工程师(J10631)
-正在爬取第86页
-高级数据分析师(业务分析)(J10275)
-数据分析师（海外）(J10744)
-高级数据分析师(业务分析)(J10275)
-数据分析师（海外）(J10744)
-数据产品经理
-数据产品经理
-大数据产品经理
-大数据产品销售经理
-BI数据分析师
-数据分析师/数据研究员
-正在爬取第87页
-数据分析师/数据研究员
-数据分析师(J10790)
-数据分析师(J10790)
-NLP算法工程师
-nlp算法工程师
-数据产品经理
-电商数据产品经理
-数据分析师
-数据分析师
-计算机视觉算法工程师
-正在爬取第88页
-数据分析师
-数据产品经理
-数据分析专员
-数据分析师
-数据分析师
-数据分析师
-数据分析师
-BIGO_图像处理和深度学习工程师（资深）（北京/广州/上海/新加坡） (MJ003262)
-图形图像算法工程师（广州/北京）
-计算机视觉算法工程师
-正在爬取第89页
-数据部产品经理
-大数据产品经理/主管
-互联网/大数据产品经理
-数据分析师（业务分析）+周末双休+朝九晚六
-数据分析师（业务分析）+周末双休+朝九晚六
-数据分析师（业务分析）+周末双休+朝九晚六
-高级运营数据分析师
-高级运营数据分析师
-银行数据分析师
-银行数据分析师
-正在爬取第90页
-数据分析师
-数据分析师
-宝洁项目运营数据分析专员
-数据分析专员
-数据分析专员（新零售事业部）
-商品数据分析专员
-自然语言处理工程师（NLP）
-数据分析员
-数据分析专员
-数据分析专员
-正在爬取第91页
-nlp算法工程师
-算法工程师（NLP方向）
-算法工程师（NLP方向）
-数据分析师
-数据分析师
-数据分析师
-数据分析师
-数据分析专员
-数据分析专员
-自然语言处理工程师（NLP）
-正在爬取第92页
-数据分析师
-数据分析师
-数据分析师
-数据分析师
-数据分析师
-数据分析师
-数据分析师
-数据分析师
-数据分析师
-数据分析师
-正在爬取第93页
-数据分析师
-数据分析师
-数据分析师
-产品经理
-数据产品经理
-数据产品经理
-数据产品经理
-高级数据产品经理
-数据产品经理
-医学顾问（消化内科方向）
-正在爬取第94页
-医学专员
-商务/数据分析师
-数据产品经理
-数据分析师
-数据分析师
-数据分析师
-数据分析师
-数据分析师(业务方向)
-数据分析师（电商平台）
-数据分析师(业务方向)
-正在爬取第95页
-数据分析师（电商平台）
-数据挖掘工程师（自然语言处理）
-nlp算法工程师
-NLP算法工程师（专家）
-资深NLP算法工程师
-NLP算法工程师
-爬虫架构师
-爬虫工程师
-爬虫工程师
-产品经理
-正在爬取第96页
-高级python爬虫工程师
-大数据产品经理
-运营数据产品经理
-临床数据分析专员
-数据分析师
-生物信息数据分析员
-数据分析师
-产品经理（医疗大数据）
-数据分析师
-数据分析师
-正在爬取第97页
-产品经理（数据类）
-数据平台产品经理
-数据应用产品经理
-高级数据分析师
-数据分析师
-数据分析师（需驻场南沙）
-高级数据分析师
-数据分析师
-数据分析师（需驻场南沙）
-项目经理（数据类产品）
-正在爬取第98页
-产品经理（数据产品）
-数据产品经理
-数据产品经理（渠道/经销商）
-高级数据分析师
-高级数据分析师
-数据分析专员
-产品经理
-产品经理
-产品经理
-数据分析师（电商护肤品+CBD猎德地铁站）
-正在爬取第99页
-高级数据分析师/数据分析经理
-数据分析师（电商护肤品+CBD猎德地铁站）
-高级数据分析师/数据分析经理
-人力数据分析师
-高级数据分析师
-人力数据分析师
-高级数据分析师
-数据治理工程师（跨境电商）
-数据分析师
-数据分析师 (MJ000889)
-正在爬取第100页
-数据分析师
-数据分析师 (MJ000889)
-数据产品经理
-数据产品经理
-数据产品高级经理
-数据产品经理
-数据产品经理 (MJ000035)
-临床数据分析专员
-数据分析师
-生物信息数据分析员
-正在爬取第101页
-数据分析师
-产品经理（医疗大数据）
-数据分析师
-数据分析师
-产品经理（数据类）
-数据平台产品经理
-数据应用产品经理
-高级数据分析师
-数据分析师
-数据分析师（需驻场南沙）
-正在爬取第102页
-高级数据分析师
-数据分析师
-数据分析师（需驻场南沙）
-项目经理（数据类产品）
-产品经理（数据产品）
-数据产品经理
-数据产品经理（渠道/经销商）
-高级数据分析师
-高级数据分析师
-数据分析专员
-正在爬取第103页
-产品经理
-产品经理
-产品经理
-数据分析师（电商护肤品+CBD猎德地铁站）
-高级数据分析师/数据分析经理
-数据分析师（电商护肤品+CBD猎德地铁站）
-高级数据分析师/数据分析经理
-人力数据分析师
-高级数据分析师
-人力数据分析师
-正在爬取第104页
-高级数据分析师
-数据治理工程师（跨境电商）
-数据分析师
-数据分析师 (MJ000889)
-数据分析师
-数据分析师 (MJ000889)
-数据产品经理
-数据产品经理
-数据产品高级经理
-数据产品经理
-正在爬取第105页
-高级数据分析师
-数据产品经理
-数据挖掘分析师
-数据挖掘分析师
-数据分析师
-数据分析师
-产品规划经理
-nlp工程师
-nlp工程师
-高级生信分析工程师
-正在爬取第106页
-高级生信分析工程师
-nlp工程师
-NLP算法工程师
-数据分析专员
-数据治理工程师
-2022校园招聘-市场营运类
-数据产品经理
-数据分析师
-数据分析师
-数据分析师
-正在爬取第107页
-数据分析师
-数据分析师
-数据分析师
-资深计算机视觉算法工程师
-ETL工程师
-数据治理工程师
-资深数据产品经理
-数据产品经理
-数据分析专员-海外业务
-数据分析师
-正在爬取第108页
-财务数据分析师
-数据分析师
-财务数据分析师
-数据中台产品经理
-数据分析员
-数据分析师/数据分析主管
-数据分析师/数据分析主管
-数据分析师
-数据分析师
-数据产品经理
-正在爬取第109页
-数据分析师
-数据分析师
-集团总部-数据治理工程师
-高级数据分析师（地产） (MJ000524)
-数据中台产品经理（地产方向）
-数据应用产品经理（MJ000408）
-数据平台产品经理（MJ000458）
-数据产品经理
-数据产品经理（MJ000102）
-数据产品经理（SAAS方向）（MJ000457）
-正在爬取第110页
-数据产品经理 (MJ000102)
-数据产品经理 (MJ000067)
-数据产品经理 (MJ000067)
-投放数据分析专员
-CRM主管
-电商高级数据分析师
-电商高级数据分析师
-数据产品经理
-数据产品经理（发行业务）
-数据产品经理
-正在爬取第111页
-数据产品经理
-NLP自然语言处理工程师(J10611)
-数据建模分析师
-数据挖掘分析师
-数据建模分析师
-数据挖掘分析师
-数据分析专家
-数据产品经理
-数据产品经理
-高级数据分析师
-正在爬取第112页
-高级数据分析师
-数据统计员/客户专员
-人工智能平台 NLP算法工程师（02）
-人工智能平台 NLP工程师（01）
-数据分析师
-数据分析师
-数据产品经理
-数据产品经理
-数据产品经理
-高级数据分析师（新零售方向）
-正在爬取第113页
-高级数据分析师（新零售方向）
-BI数据分析师
-解决方案顾问/数据分析师
-BI数据分析师
-解决方案顾问/数据分析师
-BI数据分析师
-数据治理工程师
-数据分析师
-数据分析师
-PDM产品经理
-正在爬取第114页
-产品经理
-高级产品经理
-数据分析师
-数据分析师
-产品经理（数据智能）
-数据产品经理
-数据产品经理
-数据分析师
-数据分析师
-数据产品经理
-正在爬取第115页
-产品经理
-高级产品经理
-数据分析师
-数据产品经理
-数据产品经理
-销售数据分析员（广州）
-数据分析师
-数据分析师
-数据分析师
-数据分析师
-正在爬取第116页
-数据产品经理
-Senior Digital Consultant/高级数据分析师
-研究经理/高级数据分析师
-高级数据分析师
-Senior Digital Consultant/高级数据分析师
-研究经理/高级数据分析师
-高级数据分析师
-数据分析
-数据分析专员
-产品经理（数据中台/AI中台）
-正在爬取第117页
-高级/资深数据分析专员2169
-数据中台资深产品经理2355
-资深数据产品经理
-数据产品经理
-产品经理（大数据分析）
-数据运营经理（数据分析师）
-数据运营经理（数据分析师）
-产品经理
-财税产品经理
-产品总监/高级产品经理
-正在爬取第118页
-产品经理
-数据分析师
-数据分析师
-临床数据分析员
-高级数据分析师
-高级数据分析师
-产品经理
-数据分析专员
-数据分析员（数据统计员0
-数据分析专员
-正在爬取第119页
-数据分析师（BI/数据产品）
-算法工程师（NLP方向）
-数据分析高级专员
-总部数据分析专员（主数据方向）
-数据分析师（BI/数据产品）
-数据分析师（中级）
-数据分析师（BI/数据产品）
-高级数据产品经理
-数据产品高级经理
-大数据产品高级经理
-正在爬取第120页
-数据产品高级经理
-数据分析师
-数据分析师
-大数据产品经理
-数据分析专员
-数据分析专员
-销售数据分析专员
-高级数据分析师
-高级数据分析师
-产品经理（数据分析方向）
-正在爬取第121页
-Analyst/数据分析师 （ICIS 安迅思）
-Analyst/数据分析师 （ICIS 安迅思）
-ETL开发工程师
-高级AI工程师（自然语言处理方向）
-NLP算法工程师
-NLP算法工程师MJ000171(COG)
-NLP算法工程师
-数据治理交付工程师
-数据治理交付工程师
-数据治理工程师
-正在爬取第122页
-数据分析员
-高级产品经理
-数据产品运营经理
-数据产品运营经理
-数据治理产品经理
-医疗大数据产品经理
-数据安全产品经理
-大数据产品经理
-科研大数据产品经理
-工业大数据产品经理
-正在爬取第123页
-产品助理
-产品助理(SX)
-数据分析专员
-BI项目工程师（ETL开发）
-数据分析专员
-数据分析师
-数据分析师
-高级数据产品经理
-供应链专员（数据分析）
-数据分析师
-正在爬取第124页
-数据分析师
-【总部研发】计算机视觉工程师
-数据分析专员
-数据分析师
-数据分析师
-数据产品经理&BI分析师
-数据产品经理&BI分析师
-数据分析师
-数据分析师
-数据分析师Data Analyst
-正在爬取第125页
-数据产品经理
-数据平台产品经理
-数据平台产品经理
-推广与数据分析专员
-推广与数据分析专员（2020届校园招聘）
-推广数据分析专员
-电商数据分析师/资深分析师
-电商数据分析师/资深分析师
-2022届储备干部（商品中心）- 数据分析岗
-产品经理（大数据））
-正在爬取第126页
-资深数据分析专员
-数据分析专员
-商品数据分析专员
-数据分析师（商业化方向）
-数据分析师（商业化方向）
-数据产品经理
-高级ETL开发工程师
-数据产品经理
-高级数据分析师（广州） (MJ000686)
-高级数据分析师（广州） (MJ000686)
-正在爬取第127页
-数据产品经理（采集方向）
-数据产品经理
-数据分析师
-数据分析师
-高级数据分析师
-高级数据分析师
-ETL开发工程师
-ETL开发工程师
-数据产品经理
-高级数据分析师
-正在爬取第128页
-数据分析师
-高级数据分析师
-数据分析师
-NLP自然语言处理工程师
-仓储资深专员（数据分析） (MJ002468)
-资深薪酬绩效数据分析专员 (MJ004995)
-财务数据分析师 (MJ002270)
-高级数据分析师 (MJ003580)
-财务数据分析师 (MJ002270)
-高级数据分析师 (MJ003580)
-正在爬取第129页
-数据分析师
-高级数据分析师
-数据分析师
-NLP自然语言处理工程师
-仓储资深专员（数据分析） (MJ002468)
-资深薪酬绩效数据分析专员 (MJ004995)
-财务数据分析师 (MJ002270)
-高级数据分析师 (MJ003580)
-数据分析师
-数据分析师
-正在爬取第130页
-NLP算法工程师
-ETL开发工程师
-产品经理
-产品 经理
-产品经理
-数据分析师（商业方向-广州）
-数据分析师（商业方向）(77P2)
-数据分析师（商业方向）(CNUP)
-数据分析师（商业方向-广州）
-数据分析师（商业方向）(77P2)
-正在爬取第131页
-数据分析师（商业方向）(CNUP)
-增长运营经理
-云产品销售经理
-产品销售经理（金融BI/大数据）
-nlp算法工程师
-数据分析师
-数据分析师
-数据分析师
-数据分析师
-数据分析师
-正在爬取第132页
-高级数据分析师（广州）
-数据分析师
-高级数据分析师（广州）
-数据分析师
-数据分析师
-数据分析师
-电商数据分析师
-电商数据分析师
-数据分析师
-数据分析师
-正在爬取第133页
-NLP算法工程师
-ETL开发工程师
-产品经理
-产品 经理
-产品经理
-数据分析师（商业方向-广州）
-数据分析师（商业方向）(77P2)
-数据分析师（商业方向）(CNUP)
-数据分析师（商业方向-广州）
-数据分析师（商业方向）(77P2)
-正在爬取第134页
-数据分析师（商业方向）(CNUP)
-增长运营经理
-云产品销售经理
-产品销售经理（金融BI/大数据）
-nlp算法工程师
-数据分析师
-数据分析师
-数据分析师
-数据分析师
-数据分析师
-正在爬取第135页
-高级数据分析师（广州）
-数据分析师
-高级数据分析师（广州）
-数据分析师
-数据分析师
-数据分析师
-数据分析师-广州
-数据分析师-广州
-数据处理分析师
-数据处理分析师
-正在爬取第136页
-数据分析师（成都） (MJ000049)
-高级数据安全治理工程师
-数据治理工程师
-大数据产品经理
-高级大数据产品经理
-高级大数据产品经理
-数据分析专员
-高级数据分析师
-高级数据分析师
-数据分析师
-正在爬取第137页
-数据分析师
-产品经理（家具）
-数据分析师
-nlp算法工程师
-产品经理
-数据分析专员
-WXG11-微信读书算法工程师（自然语言处理方向）（广州）
-WXG03-微信公众平台NLP算法工程师（广州）
-WXG01-微信视频号内容理解CV/NLP算法工程师（广州/深圳）
-41071-腾讯会议NLP算法工程师（广州）
-正在爬取第138页
-WXG08-微信搜一搜NLP算法工程师（北京/广州）（广州）
-WXG01-微信基础业务数据分析师（广州）
-WXG02-微信专家数据分析师（广州）
-WXG10-企业微信数据分析师（广/深/成）-广州
-WXG12-微信安全视频号直播数据分析师（广州）
-WXG01-微信视频号数据分析师
-WXG01-微信视频号直播数据分析师
-WXG01-微信视频号数据分析师（用户增长方向）
-WXG11-微信读书数据分析师（用户分析方向）
-WXG11-微信读书数据分析师（内容分析方向）
-正在爬取第139页
-WXG01-微信基础业务数据分析师（广州）
-WXG02-微信专家数据分析师（广州）
-WXG10-企业微信数据分析师（广/深/成）-广州
-WXG12-微信安全视频号直播数据分析师（广州）
-WXG01-微信视频号数据分析师
-WXG01-微信视频号直播数据分析师
-WXG01-微信视频号数据分析师（用户增长方向）
-WXG11-微信读书数据分析师（用户分析方向）
-WXG11-微信读书数据分析师（内容分析方向）
-WXG10-211 企业微信产品运营经理（数据/增长，广州）
-正在爬取第140页
-WXG10-企业微信产品运营经理（数据分析方向）
-WXG03-小程序产品经理(数据分析方向)
-WXG12-数据合规产品运营经理（广州）
-WXG03-微信公众平台数据策略产品经理（广州）
-WXG10-企业微信数据策略产品经理（广州/深圳/成都）（广州）
-WXG01-微信数据平台产品经理
-CSIG08-数据产品经理
-NLP算法工程师
-PYTHON爬虫数据分析师
-PYTHON爬虫数据分析师
-正在爬取第141页
-高级数据分析师（人力资源BI分析师）
-NLP 算法工程师
-招聘运营专员-数据分析方向
-数据分析师
-游戏数据分析师
-数据分析师（用户方向）
-数据分析师（营收方向）
-数据分析师
-游戏数据分析师
-数据分析师（用户方向）
-正在爬取第142页
-数据分析师（营收方向）
-数据中台实施项目经理
-高级产品经理（数据平台）
-运营专员（数据分析）
-数据分析专员（内审-反舞弊方向）(027932)
-资深数据分析师/数据分析经理
-高级/资深数据分析师（行业研究方向）(028079)
-金融贷后催收数据分析师
-资深数据分析师/数据分析经理
-资深数据分析师/数据分析经理
-正在爬取第143页
-高级/资深数据分析师（行业研究方向）(028079)
-金融贷后催收数据分析师
-资深数据分析师/数据分析经理
-数据产品经理
-电商数据分析师（行业分析）
-电商数据分析师（人群运营）
-电商数据分析师（行业分析）
-电商数据分析师（人群运营）
-审计专员（数据分析方向）
-审计专员（数据分析方向）
-正在爬取第144页
-数据产品经理
-数据产品经理
-数据分析师
-数据分析师
-数据分析师
-数据分析师
-数据分析师
-数据分析师
-审计专员（数据分析方向）
-审计专员（数据分析方向）
-正在爬取第145页
-数据分析专员
-高级数据分析师
-高级数据分析师
-产品经理（大数据）
-产品经理（数据中台）
-数据产品经理
-数据产品经理
-数据产品经理/产品经理（B端）
-数据产品经理（数据治理方向）
-数据分析师
-正在爬取第146页
-数据分析师
-大数据产品经理
-薪酬绩效专员（数据分析方向）
-数据分析专员
-数据分析师
-数据分析师
-大数据分析师
-大数据分析师
-商业数据分析专员
-高级产品经理
-正在爬取第147页
-etl开发工程师
-Tableau 数据分析师
-Tableau 数据分析师
-高级算法工程师（自然语言处理方向）
-数据产品经理
-服装数据分析师
-服装数据分析师
-数据分析专员
-客服专员（数据统计）
-数据分析师
-正在爬取第148页
-数据分析师
-数据分析师
-数据分析专员/主任
-广州银行账单分期+六险一金+高温补贴
-数据分析专员/主任
-广州银行账单分期+六险一金+高温补贴
-资深数据分析师
-资深数据分析师
-数据分析师 (MJ000210)
-大数据产品经理岗
-正在爬取第149页
-大数据平台产品经理
-高级数据分析师
-高级数据分析师
-数据建模分析师
-数据分析师 (MJ000210)
-大数据分析师
-数据分析师
-数据建模分析师
-数据分析师 (MJ000210)
-大数据产品经理岗
-正在爬取第150页
-高级数据产品经理
-产品经理（大数据）
-资源管理岗（数据方向）
-资源管理岗（数据方向）
-统计员/数据专员/结算专员
-数据分析师
-数据分析师
-大数据分析师
-数据分析师（广东联通）
-数据分析师（广东联通）
-正在爬取第151页
-数据分析师（广东联通）
-数据治理工程师
-大数据开发工程师（数据治理中级)
-etl开发工程师
-数据分析师
-数据分析师（广东联通）
-数据分析师
-实习生
-大数据实习生
-抖音/快手/视频号主播
-正在爬取第152页
-直播运营实习生
-主播
-游戏GS
-直播运营专员
-账务支撑工程师（外包岗）
-计费支撑工程师（外包岗）
-营业支撑工程师（外包岗）
-教学助理
-ETL开发需求（2022校招）
-Python工程师
-正在爬取第153页
-直播运营实习生
-数据仓库工程师
-大数据工程师
-大数据销售助理
-政企域支撑工程师-3（外包岗）
-政企域支撑工程师-5（外包岗）
-值班监控工程师（外包岗）
-院校合作专员
-数据工程师实习生
-前端开发工程师-运通信息
-正在爬取第154页
-私有云运维工程师（广州 深圳）
-运维工程师（上海 深圳）
-运维工程师（北京 上海 深圳 长沙）
-项目经理储备（深圳）
-运维工程师（长沙 深圳）
-管培生
-前端开发工程师--运通信息
-Java开发工程师--运通信息
-Java开发工程师-运通信息
-前端开发工程师-运通信息
-正在爬取第155页
-大数据开发工程师
-分析工程师
-实习生岗位
-游戏测试
-软件测试
-游戏客服专员-岗位JD
-游戏用户营销（GS）专员-岗位JD
-大数据分析师
-客户经理
-体验顾问
-正在爬取第156页
-大数据开发工程师
-分析工程师
-实习生岗位
-游戏测试
-软件测试
-游戏客服专员-岗位JD
-游戏用户营销（GS）专员-岗位JD
-鸿蒙应用开发工程师
-鸿蒙硬件开发工程师
-金融数据分析师
-正在爬取第157页
-机器学习和深度学习师
-大数据应用开发工程师
-运营专员
-数据分析师
-大客户销售
-项目管理
-企业合作专员
-人事专员
-售前工程师
-销售专员
-正在爬取第158页
-销售助理
-大客户销售经理
-企业培训售前咨询
-项目经理
-销售专员1
-GIS数据整合工程师助理
-数据分析师
-BI实施工程师
-ETL工程师
-RPA实施工程师
+<head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no"><link rel="icon" href="/favicon.ico"><link rel="stylesheet" type="text/css" id="style" href="pc.css"><title>泰迪内推</title><link href="/static/css/chunk-213d46f9.6699f04d.css" rel="prefetch"><link href="/static/css/chunk-27f03f86.a14eed06.css" rel="prefetch"><link href="/static/css/chunk-3e1db89a.80dc307b.css" rel="prefetch"><link href="/static/css/chunk-43ac0f34.b39cf2e8.css" rel="prefetch"><link href="/static/css/chunk-47eb0788.1ef261ba.css" rel="prefetch"><link href="/static/css/chunk-4df08e90.c15bd54f.css" rel="prefetch"><link href="/static/css/chunk-604a0331.222a69ed.css" rel="prefetch"><link href="/static/css/chunk-706e4bb8.ba0c435d.css" rel="prefetch"><link href="/static/css/chunk-aa019e9e.a24ffcbe.css" rel="prefetch"><link href="/static/css/chunk-b2d8146e.9f5c8495.css" rel="prefetch"><link href="/static/js/chunk-0bd9655e.5d19cfbe.js" rel="prefetch"><link href="/static/js/chunk-213d46f9.5bf0f607.js" rel="prefetch"><link href="/static/js/chunk-27f03f86.5642dd75.js" rel="prefetch"><link href="/static/js/chunk-2d0b35ec.0914afe2.js" rel="prefetch"><link href="/static/js/chunk-2d0dd3b6.0661684c.js" rel="prefetch"><link href="/static/js/chunk-2d217c6c.0552e504.js" rel="prefetch"><link href="/static/js/chunk-3e1db89a.32ad918c.js" rel="prefetch"><link href="/static/js/chunk-43ac0f34.cae47384.js" rel="prefetch"><link href="/static/js/chunk-47eb0788.f22bea25.js" rel="prefetch"><link href="/static/js/chunk-4c5e9add.e9181098.js" rel="prefetch"><link href="/static/js/chunk-4df08e90.a647fb2c.js" rel="prefetch"><link href="/static/js/chunk-50ab568d.23c2b33f.js" rel="prefetch"><link href="/static/js/chunk-580d01b5.865ed0ae.js" rel="prefetch"><link href="/static/js/chunk-604a0331.ff94cd57.js" rel="prefetch"><link href="/static/js/chunk-706e4bb8.cc1fe1f6.js" rel="prefetch"><link href="/static/js/chunk-70d08bcf.6283edd1.js" rel="prefetch"><link href="/static/js/chunk-aa019e9e.a3ad5f18.js" rel="prefetch"><link href="/static/js/chunk-b2d8146e.cc40e92f.js" rel="prefetch"><link href="/static/js/chunk-c5bd1154.0a2126f9.js" rel="prefetch"><link href="/static/js/chunk-f5ae8c94.d4d5a49c.js" rel="prefetch"><link href="/static/css/chunk-vendors.a57aa87f.css" rel="preload" as="style"><link href="/static/css/frontend.8e826938.css" rel="preload" as="style"><link href="/static/js/chunk-vendors.ce9424b8.js" rel="preload" as="script"><link href="/static/js/frontend.6f4ec638.js" rel="preload" as="script"><link href="/static/css/chunk-vendors.a57aa87f.css" rel="stylesheet"><link href="/static/css/frontend.8e826938.css" rel="stylesheet"><style type="text/css">
+.vue-cropper[data-v-6dae58fd] {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+  user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  direction: ltr;
+  touch-action: none;
+  text-align: left;
+  background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQAQMAAAAlPW0iAAAAA3NCSVQICAjb4U/gAAAABlBMVEXMzMz////TjRV2AAAACXBIWXMAAArrAAAK6wGCiw1aAAAAHHRFWHRTb2Z0d2FyZQBBZG9iZSBGaXJld29ya3MgQ1M26LyyjAAAABFJREFUCJlj+M/AgBVhF/0PAH6/D/HkDxOGAAAAAElFTkSuQmCC");
+}
+.cropper-box[data-v-6dae58fd],
+.cropper-box-canvas[data-v-6dae58fd],
+.cropper-drag-box[data-v-6dae58fd],
+.cropper-crop-box[data-v-6dae58fd],
+.cropper-face[data-v-6dae58fd] {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  user-select: none;
+}
+.cropper-box-canvas img[data-v-6dae58fd] {
+  position: relative;
+  text-align: left;
+  user-select: none;
+  transform: none;
+  max-width: none;
+  max-height: none;
+}
+.cropper-box[data-v-6dae58fd] {
+  overflow: hidden;
+}
+.cropper-move[data-v-6dae58fd] {
+  cursor: move;
+}
+.cropper-crop[data-v-6dae58fd] {
+  cursor: crosshair;
+}
+.cropper-modal[data-v-6dae58fd] {
+  background: rgba(0, 0, 0, 0.5);
+}
+.cropper-crop-box[data-v-6dae58fd] {
+  /*border: 2px solid #39f;*/
+}
+.cropper-view-box[data-v-6dae58fd] {
+  display: block;
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+  outline: 1px solid #39f;
+  outline-color: rgba(51, 153, 255, 0.75);
+  user-select: none;
+}
+.cropper-view-box img[data-v-6dae58fd] {
+  user-select: none;
+  text-align: left;
+  max-width: none;
+  max-height: none;
+}
+.cropper-face[data-v-6dae58fd] {
+  top: 0;
+  left: 0;
+  background-color: #fff;
+  opacity: 0.1;
+}
+.crop-info[data-v-6dae58fd] {
+  position: absolute;
+  left: 0px;
+  min-width: 65px;
+  text-align: center;
+  color: white;
+  line-height: 20px;
+  background-color: rgba(0, 0, 0, 0.8);
+  font-size: 12px;
+}
+.crop-line[data-v-6dae58fd] {
+  position: absolute;
+  display: block;
+  width: 100%;
+  height: 100%;
+  opacity: 0.1;
+}
+.line-w[data-v-6dae58fd] {
+  top: -3px;
+  left: 0;
+  height: 5px;
+  cursor: n-resize;
+}
+.line-a[data-v-6dae58fd] {
+  top: 0;
+  left: -3px;
+  width: 5px;
+  cursor: w-resize;
+}
+.line-s[data-v-6dae58fd] {
+  bottom: -3px;
+  left: 0;
+  height: 5px;
+  cursor: s-resize;
+}
+.line-d[data-v-6dae58fd] {
+  top: 0;
+  right: -3px;
+  width: 5px;
+  cursor: e-resize;
+}
+.crop-point[data-v-6dae58fd] {
+  position: absolute;
+  width: 8px;
+  height: 8px;
+  opacity: 0.75;
+  background-color: #39f;
+  border-radius: 100%;
+}
+.point1[data-v-6dae58fd] {
+  top: -4px;
+  left: -4px;
+  cursor: nw-resize;
+}
+.point2[data-v-6dae58fd] {
+  top: -5px;
+  left: 50%;
+  margin-left: -3px;
+  cursor: n-resize;
+}
+.point3[data-v-6dae58fd] {
+  top: -4px;
+  right: -4px;
+  cursor: ne-resize;
+}
+.point4[data-v-6dae58fd] {
+  top: 50%;
+  left: -4px;
+  margin-top: -3px;
+  cursor: w-resize;
+}
+.point5[data-v-6dae58fd] {
+  top: 50%;
+  right: -4px;
+  margin-top: -3px;
+  cursor: e-resize;
+}
+.point6[data-v-6dae58fd] {
+  bottom: -5px;
+  left: -4px;
+  cursor: sw-resize;
+}
+.point7[data-v-6dae58fd] {
+  bottom: -5px;
+  left: 50%;
+  margin-left: -3px;
+  cursor: s-resize;
+}
+.point8[data-v-6dae58fd] {
+  bottom: -5px;
+  right: -4px;
+  cursor: se-resize;
+}
+@media screen and (max-width: 500px) {
+.crop-point[data-v-6dae58fd] {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    opacity: 0.45;
+    background-color: #39f;
+    border-radius: 100%;
+}
+.point1[data-v-6dae58fd] {
+    top: -10px;
+    left: -10px;
+}
+.point2[data-v-6dae58fd],
+  .point4[data-v-6dae58fd],
+  .point5[data-v-6dae58fd],
+  .point7[data-v-6dae58fd] {
+    display: none;
+}
+.point3[data-v-6dae58fd] {
+    top: -10px;
+    right: -10px;
+}
+.point4[data-v-6dae58fd] {
+    top: 0;
+    left: 0;
+}
+.point6[data-v-6dae58fd] {
+    bottom: -10px;
+    left: -10px;
+}
+.point8[data-v-6dae58fd] {
+    bottom: -10px;
+    right: -10px;
+}
+}
+</style><link rel="stylesheet" type="text/css" href="/static/css/chunk-27f03f86.a14eed06.css"><script charset="utf-8" src="/static/js/chunk-27f03f86.5642dd75.js"></script><link rel="stylesheet" type="text/css" href="/static/css/chunk-213d46f9.6699f04d.css"><script charset="utf-8" src="/static/js/chunk-213d46f9.5bf0f607.js"></script><script charset="utf-8" src="/static/js/chunk-2d217c6c.0552e504.js"></script><script charset="utf-8" src="/static/js/chunk-c5bd1154.0a2126f9.js"></script><link rel="stylesheet" type="text/css" href="/static/css/chunk-4df08e90.c15bd54f.css"><script charset="utf-8" src="/static/js/chunk-4df08e90.a647fb2c.js"></script></head>
+
+<body><div id="app"><div class="wrap" style="height: 100%;"><header class="header rel"><div class="headerLink"><div class="container clearfix"><div class="fl">Hi，欢迎来到泰迪内推</div><div class="fr clearfix"><div class="hLink fl"><ul><li><a href="#">企业中心</a></li><!----></ul></div><div class="regLogin fr"><a href="/login" class="logiBtn bgBtn">注册<span>/</span>登录</a><!----></div></div></div><div class="el-dialog__wrapper" style="display: none;"><div role="dialog" aria-modal="true" aria-label="企业已封禁" class="el-dialog" style="margin-top: 15vh; width: 500px;"><div class="el-dialog__header"><span class="el-dialog__title">企业已封禁</span><button type="button" aria-label="Close" class="el-dialog__headerbtn"><i class="el-dialog__close el-icon el-icon-close"></i></button></div><!----><div class="el-dialog__footer"><div class="dialog-footer"><button type="button" class="el-button el-button--primary"><!----><!----><span>确 定</span></button><button type="button" class="el-button el-button--default"><!----><!----><span>取 消</span></button></div></div></div></div><div><div class="el-dialog__wrapper" style="display: none;"><div role="dialog" aria-modal="true" aria-label="企业已封禁" class="el-dialog" style="margin-top: 15vh; width: 500px;"><div class="el-dialog__header"><span class="el-dialog__title">企业已封禁</span><button type="button" aria-label="Close" class="el-dialog__headerbtn"><i class="el-dialog__close el-icon el-icon-close"></i></button></div><!----><div class="el-dialog__footer"><div class="dialog-footer"><button type="button" class="el-button el-button--primary"><!----><!----><span>确 定</span></button><button type="button" class="el-button el-button--default"><!----><!----><span>取 消</span></button></div></div></div></div><div class="el-dialog__wrapper" style="display: none;"><div role="dialog" aria-modal="true" aria-label="系统提示" class="el-dialog" style="margin-top: 15vh; width: 500px;"><div class="el-dialog__header"><span class="el-dialog__title">系统提示</span><button type="button" aria-label="Close" class="el-dialog__headerbtn"><i class="el-dialog__close el-icon el-icon-close"></i></button></div><!----><div class="el-dialog__footer"><div class="dialog-footer"><button type="button" class="el-button el-button--default"><!----><!----><span>取 消</span></button><button type="button" class="el-button el-button--default"><!----><!----><span>前往认证</span></button></div></div></div></div></div></div><div class="container webLogo spaceBetween"><a href="/" class="logo fl"><i class="icons-logoD"></i>泰迪内推<img src="/files?imagePath=/banner/logo_title.png" alt=""></a><div class="nav clearfix"><ul id="menu" class="menu"><li><a href="#/index" class="">首页</a></li><li><a href="#/jobList" class="">找工作</a></li><li><a href="#/moreResume" class="router-link-exact-active on">找人才</a></li><li><a href="#/about" class="">关于我们</a></li></ul></div></div></header><section class="app-main"><section class="indBlock moreJobBlock"><div class="container"><div class="filterJob"><div class="input-with-select el-input el-input-group el-input-group--append el-input--suffix"><!----><input type="text" autocomplete="off" placeholder="请输入关键字" maxlength="20" class="el-input__inner"><!----><span class="el-input__suffix" style="transform: translateX(-117px);"><span class="el-input__suffix-inner"><!----><!----><!----><span class="el-input__count"><span class="el-input__count-inner">
+            0/20
+          </span></span></span><!----></span><div class="el-input-group__append"><button type="button" class="el-button el-button--default"><!----><i class="el-icon-search"></i><span>搜索人才</span></button></div><!----></div><ul><li><span class="liLabel">职能：</span><div role="radiogroup" class="el-radio-group"><label role="radio" aria-checked="true" tabindex="0" class="el-radio-button is-active"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value=""><span class="el-radio-button__inner">不限<!----></span></label><label role="radio" tabindex="-1" class="el-radio-button"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value="数据分析师"><span class="el-radio-button__inner">
+                    数据分析师
+                <!----></span></label><label role="radio" tabindex="-1" class="el-radio-button"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value="数据挖掘工程师"><span class="el-radio-button__inner">
+                    数据挖掘工程师
+                <!----></span></label><label role="radio" tabindex="-1" class="el-radio-button"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value="算法工程师"><span class="el-radio-button__inner">
+                    算法工程师
+                <!----></span></label><label role="radio" tabindex="-1" class="el-radio-button"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value="自然语言处理工程师"><span class="el-radio-button__inner">
+                    自然语言处理工程师
+                <!----></span></label><label role="radio" tabindex="-1" class="el-radio-button"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value="图像处理工程师"><span class="el-radio-button__inner">
+                    图像处理工程师
+                <!----></span></label><label role="radio" tabindex="-1" class="el-radio-button"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value="计算机视觉工程师"><span class="el-radio-button__inner">
+                    计算机视觉工程师
+                <!----></span></label><label role="radio" tabindex="-1" class="el-radio-button"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value="机器学习工程师"><span class="el-radio-button__inner">
+                    机器学习工程师
+                <!----></span></label><label role="radio" tabindex="-1" class="el-radio-button"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value="Hadoop大数据开发工程师"><span class="el-radio-button__inner">
+                    Hadoop大数据开发工程师
+                <!----></span></label><label role="radio" tabindex="-1" class="el-radio-button"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value="其他"><span class="el-radio-button__inner">
+                    其他
+                <!----></span></label></div></li><li><span class="liLabel">城市：</span><div role="radiogroup" class="el-radio-group"><label role="radio" aria-checked="true" tabindex="0" class="el-radio-button is-active"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value=""><span class="el-radio-button__inner">不限<!----></span></label><label role="radio" tabindex="-1" class="el-radio-button"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value="广州"><span class="el-radio-button__inner">
+                    广州
+                <!----></span></label><label role="radio" tabindex="-1" class="el-radio-button"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value="深圳"><span class="el-radio-button__inner">
+                    深圳
+                <!----></span></label><label role="radio" tabindex="-1" class="el-radio-button"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value="天津"><span class="el-radio-button__inner">
+                    天津
+                <!----></span></label><label role="radio" tabindex="-1" class="el-radio-button"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value="佛山"><span class="el-radio-button__inner">
+                    佛山
+                <!----></span></label><label role="radio" tabindex="-1" class="el-radio-button"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value="武汉"><span class="el-radio-button__inner">
+                    武汉
+                <!----></span></label><label role="radio" tabindex="-1" class="el-radio-button"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value="北京"><span class="el-radio-button__inner">
+                    北京
+                <!----></span></label><label role="radio" tabindex="-1" class="el-radio-button"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value="南宁"><span class="el-radio-button__inner">
+                    南宁
+                <!----></span></label><label role="radio" tabindex="-1" class="el-radio-button"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value="重庆"><span class="el-radio-button__inner">
+                    重庆
+                <!----></span></label><label role="radio" tabindex="-1" class="el-radio-button"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value="上海"><span class="el-radio-button__inner">
+                    上海
+                <!----></span></label><label role="radio" tabindex="-1" class="el-radio-button"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value="菏泽"><span class="el-radio-button__inner">
+                    菏泽
+                <!----></span></label></div></li><li><span class="liLabel">技能：</span><div role="radiogroup" class="el-radio-group"><label role="radio" aria-checked="true" tabindex="0" class="el-radio-button is-active"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value=""><span class="el-radio-button__inner">不限<!----></span></label><label role="radio" tabindex="-1" class="el-radio-button"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value="数据建模"><span class="el-radio-button__inner">
+                    数据建模
+                <!----></span></label><label role="radio" tabindex="-1" class="el-radio-button"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value="数据预处理"><span class="el-radio-button__inner">
+                    数据预处理
+                <!----></span></label><label role="radio" tabindex="-1" class="el-radio-button"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value="数据计算"><span class="el-radio-button__inner">
+                    数据计算
+                <!----></span></label><label role="radio" tabindex="-1" class="el-radio-button"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value="数据查询"><span class="el-radio-button__inner">
+                    数据查询
+                <!----></span></label><label role="radio" tabindex="-1" class="el-radio-button"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value="数据分析"><span class="el-radio-button__inner">
+                    数据分析
+                <!----></span></label><label role="radio" tabindex="-1" class="el-radio-button"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value="数据挖掘"><span class="el-radio-button__inner">
+                    数据挖掘
+                <!----></span></label><label role="radio" tabindex="-1" class="el-radio-button"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value="数据可视化"><span class="el-radio-button__inner">
+                    数据可视化
+                <!----></span></label><label role="radio" tabindex="-1" class="el-radio-button"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value="机器学习"><span class="el-radio-button__inner">
+                    机器学习
+                <!----></span></label><label role="radio" tabindex="-1" class="el-radio-button"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value="神经网络"><span class="el-radio-button__inner">
+                    神经网络
+                <!----></span></label><label role="radio" tabindex="-1" class="el-radio-button"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value="机器人技术"><span class="el-radio-button__inner">
+                    机器人技术
+                <!----></span></label><label role="radio" tabindex="-1" class="el-radio-button"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value="专家系统"><span class="el-radio-button__inner">
+                    专家系统
+                <!----></span></label><label role="radio" tabindex="-1" class="el-radio-button"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value="模糊识别"><span class="el-radio-button__inner">
+                    模糊识别
+                <!----></span></label><label role="radio" tabindex="-1" class="el-radio-button"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value="图像处理"><span class="el-radio-button__inner">
+                    图像处理
+                <!----></span></label><label role="radio" tabindex="-1" class="el-radio-button"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value="语音识别"><span class="el-radio-button__inner">
+                    语音识别
+                <!----></span></label><label role="radio" tabindex="-1" class="el-radio-button"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value="自然语言处理"><span class="el-radio-button__inner">
+                    自然语言处理
+                <!----></span></label><label role="radio" tabindex="-1" class="el-radio-button"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value="分布式计算"><span class="el-radio-button__inner">
+                    分布式计算
+                <!----></span></label><label role="radio" tabindex="-1" class="el-radio-button"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value="计算引擎开发"><span class="el-radio-button__inner">
+                    计算引擎开发
+                <!----></span></label><label role="radio" tabindex="-1" class="el-radio-button"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value="接口开发"><span class="el-radio-button__inner">
+                    接口开发
+                <!----></span></label><label role="radio" tabindex="-1" class="el-radio-button"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value="数据通信"><span class="el-radio-button__inner">
+                    数据通信
+                <!----></span></label><label role="radio" tabindex="-1" class="el-radio-button"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value="系统测试"><span class="el-radio-button__inner">
+                    系统测试
+                <!----></span></label></div></li></ul></div><div class="mianContent clearfix"><div class="jobListBlock"><div class="note"><h3>推荐人才</h3><p>您正在浏览系统推荐人才，如需查看更多，请前往
+            <a class="el-link el-link--primary is-underline"><!----><span class="el-link--inner">企业中心</span><!----></a></p></div><ul class="jobListMore"><div><li class="personnelInfo"><div class="top"><img src="/static/img/woman.d6ec9f04.png" alt=""><div class="jobInfo spaceBetween"><div class="left"><p class="tit"><span class="position">蔡女士</span><span class="textInfo"><span>毕业找工作</span><span>6年工作经验</span><span>山东省菏泽市曹县</span></span></p><p>期望职能
+                                <span class="expectPosition">其他</span><span>3-6K•月</span></p><p>技能勋章</p><p class="tag"></p></div><div class="companyInfo"><p>简历关键词</p><p class="tag"></p><div class="bot"><div class="dateTime">2023-04-18 发布</div></div></div></div></div></li></div><div><li class="personnelInfo"><div class="top"><img src="/static/img/man.fce55e95.png" alt=""><div class="jobInfo spaceBetween"><div class="left"><p class="tit"><span class="position">特先生</span><span class="textInfo"><span>毕业找工作</span><span>1年工作经验</span><span>天津市天津市河东区</span></span></p><p>期望职能
+                                <span class="expectPosition">图像处理工程师&nbsp;&nbsp;自然语言处理工程师</span><span>4-9K•月</span></p><p>技能勋章</p><p class="tag"></p></div><div class="companyInfo"><p>简历关键词</p><p class="tag"></p><div class="bot"><div class="dateTime">2023-04-18 发布</div></div></div></div></div></li></div><div><li class="personnelInfo"><div class="top"><img src="/static/img/woman.d6ec9f04.png" alt=""><div class="jobInfo spaceBetween"><div class="left"><p class="tit"><span class="position">傻女士</span><span class="textInfo"><span>毕业找工作</span><span>5年工作经验</span><span>天津市天津市河东区</span></span></p><p>期望职能
+                                <span class="expectPosition">数据挖掘工程师&nbsp;&nbsp;算法工程师&nbsp;&nbsp;自然语言处理工程师</span><span>3-5K•月</span></p><p>技能勋章</p><p class="tag"></p></div><div class="companyInfo"><p>简历关键词</p><p class="tag"></p><div class="bot"><div class="dateTime">2023-04-17 发布</div></div></div></div></div></li></div><div><li class="personnelInfo"><div class="top"><img src="/static/img/man.fce55e95.png" alt=""><div class="jobInfo spaceBetween"><div class="left"><p class="tit"><span class="position">练先生</span><span class="textInfo"><span>毕业找工作</span><span>2年工作经验</span><span>上海市上海市黄浦区</span></span></p><p>期望职能
+                                <span class="expectPosition">数据挖掘工程师&nbsp;&nbsp;数据分析师&nbsp;&nbsp;算法工程师</span><span>10-15K•月</span></p><p>技能勋章</p><p class="tag"></p></div><div class="companyInfo"><p>简历关键词</p><p class="tag"></p><div class="bot"><div class="dateTime">2023-04-16 发布</div></div></div></div></div></li></div><div><li class="personnelInfo"><div class="top"><img src="/static/img/woman.d6ec9f04.png" alt=""><div class="jobInfo spaceBetween"><div class="left"><p class="tit"><span class="position">丽女士</span><span class="textInfo"><span>毕业找工作</span><span>3年工作经验</span><span>北京市北京市东城区</span></span></p><p>期望职能
+                                <span class="expectPosition">数据挖掘工程师&nbsp;&nbsp;自然语言处理工程师&nbsp;&nbsp;数据分析师</span><span>7-12K•月</span></p><p>技能勋章</p><p class="tag"></p></div><div class="companyInfo"><p>简历关键词</p><p class="tag"></p><div class="bot"><div class="dateTime">2023-04-15 发布</div></div></div></div></div></li></div><div><li class="personnelInfo"><div class="top"><img src="/static/img/woman.d6ec9f04.png" alt=""><div class="jobInfo spaceBetween"><div class="left"><p class="tit"><span class="position">赵女士</span><span class="textInfo"><span>毕业找工作</span><span>无经验</span><span>浙江省杭州市滨江区</span></span></p><p>期望职能
+                                <span class="expectPosition">数据分析师</span><span>3-6K•月</span></p><p>技能勋章</p><p class="tag"></p></div><div class="companyInfo"><p>简历关键词</p><p class="tag"><i>哈哈</i><i>呵呵</i></p><div class="bot"><div class="dateTime">2023-04-14 发布</div></div></div></div></div></li></div><div><li class="personnelInfo"><div class="top"><img src="/static/img/man.fce55e95.png" alt=""><div class="jobInfo spaceBetween"><div class="left"><p class="tit"><span class="position">林先生</span><span class="textInfo"><!----><span>无经验</span><span>广东省广州市海珠区</span></span></p><p>期望职能
+                                <span class="expectPosition">数据分析师&nbsp;&nbsp;数据挖掘工程师</span><span>4-6K•月</span></p><p>技能勋章</p><p class="tag"></p></div><div class="companyInfo"><p>简历关键词</p><p class="tag"><i>数据分析</i><i>数据挖掘</i></p><div class="bot"><div class="dateTime">2023-04-14 发布</div></div></div></div></div></li></div><div><li class="personnelInfo"><div class="top"><img src="/static/img/man.fce55e95.png" alt=""><div class="jobInfo spaceBetween"><div class="left"><p class="tit"><span class="position">中先生</span><span class="textInfo"><span>毕业找工作</span><span>无经验</span><span>北京市北京市东城区</span></span></p><p>期望职能
+                                <span class="expectPosition">数据分析师</span><span>3-4K•月</span></p><p>技能勋章</p><p class="tag"></p></div><div class="companyInfo"><p>简历关键词</p><p class="tag"></p><div class="bot"><div class="dateTime">2023-04-13 发布</div></div></div></div></div></li></div><div><li class="personnelInfo"><div class="top"><img src="/static/img/man.fce55e95.png" alt=""><div class="jobInfo spaceBetween"><div class="left"><p class="tit"><span class="position">什先生</span><span class="textInfo"><span>毕业找工作</span><span>2年工作经验</span><span>天津市天津市河东区</span></span></p><p>期望职能
+                                <span class="expectPosition">机器学习工程师&nbsp;&nbsp;数据挖掘工程师</span><span>3-5K•月</span></p><p>技能勋章</p><p class="tag"></p></div><div class="companyInfo"><p>简历关键词</p><p class="tag"><i>1</i></p><div class="bot"><div class="dateTime">2023-04-11 发布</div></div></div></div></div></li></div><div><li class="personnelInfo"><div class="top"><img src="/static/img/man.fce55e95.png" alt=""><div class="jobInfo spaceBetween"><div class="left"><p class="tit"><span class="position">李先生</span><span class="textInfo"><span>毕业找工作</span><span>10年以上工作经验</span><span>北京市北京市海淀区</span></span></p><p>期望职能
+                                <span class="expectPosition">其他</span><span>10-14K•月</span></p><p>技能勋章</p><p class="tag"></p></div><div class="companyInfo"><p>简历关键词</p><p class="tag"><i>鸡你太美</i></p><div class="bot"><div class="dateTime">2023-04-10 发布</div></div></div></div></div></li></div></ul><div class="pagination"><span class="paginationTotal">共 10926 条</span><div class="el-pagination"><button type="button" disabled="disabled" class="btn-prev"><i class="el-icon el-icon-arrow-left"></i></button><ul class="el-pager"><li class="number active">1</li><!----><li class="number">2</li><li class="number">3</li><li class="number">4</li><li class="number">5</li><li class="number">6</li><li class="el-icon more btn-quicknext el-icon-more"></li><li class="number">1093</li></ul><button type="button" class="btn-next"><i class="el-icon el-icon-arrow-right"></i></button><span class="el-pagination__jump">前往<div class="el-input el-pagination__editor is-in-pagination"><!----><input type="number" autocomplete="off" min="1" max="1093" class="el-input__inner"><!----><!----><!----><!----></div>页</span></div></div></div><div data-v-6b1df274="" class="imgBlock"><ul data-v-6b1df274=""><li data-v-6b1df274=""><a data-v-6b1df274=""><img data-v-6b1df274="" src="/files?imagePath=/banner/side1.png"></a></li><li data-v-6b1df274=""><a data-v-6b1df274=""><img data-v-6b1df274="" src="/files?imagePath=/banner/side2.png"></a></li><li data-v-6b1df274=""><a data-v-6b1df274=""><img data-v-6b1df274="" src="/files?imagePath=/banner/side3.png"></a></li><li data-v-6b1df274=""><a data-v-6b1df274=""><img data-v-6b1df274="" src="/files?imagePath=/banner/side4.png"></a></li></ul></div></div></div></section></section><footer class="footer"><div class="webInfo container clearfix"><div class="fLogo"><h3><i class="icons-logoD"></i>泰迪内推</h3><p>邮箱：services@tipdm.com</p><p>热线：400-684-0020</p><p>地址：广州黄埔区开泰大道36号</p></div><div class="fLink"><dl><dt>泰迪云课堂</dt><dd><li><a href="https://edu.tipdm.org/" target="_blank">在线课程</a></li><li><a href="https://edu.tipdm.org/classroom/explore/shixi?orderBy=recommendedSeq" target="_blank">实训实习</a></li></dd></dl></div><div class="fLink"><dl><dt>数睿思竞赛</dt><dd><li><a href="https://www.tipdm.org:20013/" target="_blank">数据挖掘挑战赛</a></li><li><a href="https://www.tipdm.org:20013/" target="_blank">数据分析技能赛</a></li></dd></dl></div><div class="fLink"><dl><dt>泰迪教育</dt><dd><li><a href="http://cbda.tipdm.org/kczx/index.jhtml" target="_blank">高薪就业培训</a></li><li><a href="http://cbda.tipdm.org/ksrz/index.jhtml" target="_blank">职业技术培训</a></li></dd></dl></div><div class="fLink"><dl><dt>企业官网</dt><dd><li><a href="http://www.tipdm.com/" target="_blank">泰迪科技</a></li><li><a href="http://www.tipdm.com/1Xzs/index.jhtml" target="_blank">1+X证书认证</a></li></dd></dl></div><div class="fLink"><dl><dt>帮助中心</dt><dd><li><a href="#" target="_blank">隐私政策</a></li><li><a href="http://www.tipdm.com/lxwm/index.jhtml" target="_blank">联系我们</a></li></dd></dl></div><div class="weixin"><img src="/static/img/weixin.dc2963f7.png" alt="官方公众号" width="120"><p>关注“泰迪学社”</p></div></div><div class="copyright"><div class="container">Copyright © GuangDong TipDM Intelligent Technology Co.,Ltd. <span id="year">2021</span> &nbsp;&nbsp; 广东泰迪智能科技股份有限公司 &nbsp;&nbsp; <a href="http://beian.miit.gov.cn" target="_blank">粤ICP备14098620号</a> &nbsp;&nbsp; <a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=44011202000980" target="_blank">粤公网安备 44011202000988号</a></div></div></footer><div class="sNav" style="position: fixed; top: calc(50% + 26px); display: block;"><!----></div></div></div><script src="/static/js/chunk-vendors.ce9424b8.js"></script><script src="/static/js/frontend.6f4ec638.js"></script><a href="javascript:void(0)" id="transButton"></a><div id="transBox"></div></body>
+<div style="all: initial;"><div id="__hcfy__" style="all: initial;"></div></div>
+<html lang="en" class=" "><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no"><link rel="icon" href="/favicon.ico"><link rel="stylesheet" type="text/css" id="style" href="pc.css"><title>泰迪内推</title><link href="/static/css/chunk-213d46f9.6699f04d.css" rel="prefetch"><link href="/static/css/chunk-27f03f86.a14eed06.css" rel="prefetch"><link href="/static/css/chunk-3e1db89a.80dc307b.css" rel="prefetch"><link href="/static/css/chunk-43ac0f34.b39cf2e8.css" rel="prefetch"><link href="/static/css/chunk-47eb0788.1ef261ba.css" rel="prefetch"><link href="/static/css/chunk-4df08e90.c15bd54f.css" rel="prefetch"><link href="/static/css/chunk-604a0331.222a69ed.css" rel="prefetch"><link href="/static/css/chunk-706e4bb8.ba0c435d.css" rel="prefetch"><link href="/static/css/chunk-aa019e9e.a24ffcbe.css" rel="prefetch"><link href="/static/css/chunk-b2d8146e.9f5c8495.css" rel="prefetch"><link href="/static/js/chunk-0bd9655e.5d19cfbe.js" rel="prefetch"><link href="/static/js/chunk-213d46f9.5bf0f607.js" rel="prefetch"><link href="/static/js/chunk-27f03f86.5642dd75.js" rel="prefetch"><link href="/static/js/chunk-2d0b35ec.0914afe2.js" rel="prefetch"><link href="/static/js/chunk-2d0dd3b6.0661684c.js" rel="prefetch"><link href="/static/js/chunk-2d217c6c.0552e504.js" rel="prefetch"><link href="/static/js/chunk-3e1db89a.32ad918c.js" rel="prefetch"><link href="/static/js/chunk-43ac0f34.cae47384.js" rel="prefetch"><link href="/static/js/chunk-47eb0788.f22bea25.js" rel="prefetch"><link href="/static/js/chunk-4c5e9add.e9181098.js" rel="prefetch"><link href="/static/js/chunk-4df08e90.a647fb2c.js" rel="prefetch"><link href="/static/js/chunk-50ab568d.23c2b33f.js" rel="prefetch"><link href="/static/js/chunk-580d01b5.865ed0ae.js" rel="prefetch"><link href="/static/js/chunk-604a0331.ff94cd57.js" rel="prefetch"><link href="/static/js/chunk-706e4bb8.cc1fe1f6.js" rel="prefetch"><link href="/static/js/chunk-70d08bcf.6283edd1.js" rel="prefetch"><link href="/static/js/chunk-aa019e9e.a3ad5f18.js" rel="prefetch"><link href="/static/js/chunk-b2d8146e.cc40e92f.js" rel="prefetch"><link href="/static/js/chunk-c5bd1154.0a2126f9.js" rel="prefetch"><link href="/static/js/chunk-f5ae8c94.d4d5a49c.js" rel="prefetch"><link href="/static/css/chunk-vendors.a57aa87f.css" rel="preload" as="style"><link href="/static/css/frontend.8e826938.css" rel="preload" as="style"><link href="/static/js/chunk-vendors.ce9424b8.js" rel="preload" as="script"><link href="/static/js/frontend.6f4ec638.js" rel="preload" as="script"><link href="/static/css/chunk-vendors.a57aa87f.css" rel="stylesheet"><link href="/static/css/frontend.8e826938.css" rel="stylesheet"><style type="text/css">
+.vue-cropper[data-v-6dae58fd] {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+  user-select: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  direction: ltr;
+  touch-action: none;
+  text-align: left;
+  background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQAQMAAAAlPW0iAAAAA3NCSVQICAjb4U/gAAAABlBMVEXMzMz////TjRV2AAAACXBIWXMAAArrAAAK6wGCiw1aAAAAHHRFWHRTb2Z0d2FyZQBBZG9iZSBGaXJld29ya3MgQ1M26LyyjAAAABFJREFUCJlj+M/AgBVhF/0PAH6/D/HkDxOGAAAAAElFTkSuQmCC");
+}
+.cropper-box[data-v-6dae58fd],
+.cropper-box-canvas[data-v-6dae58fd],
+.cropper-drag-box[data-v-6dae58fd],
+.cropper-crop-box[data-v-6dae58fd],
+.cropper-face[data-v-6dae58fd] {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  user-select: none;
+}
+.cropper-box-canvas img[data-v-6dae58fd] {
+  position: relative;
+  text-align: left;
+  user-select: none;
+  transform: none;
+  max-width: none;
+  max-height: none;
+}
+.cropper-box[data-v-6dae58fd] {
+  overflow: hidden;
+}
+.cropper-move[data-v-6dae58fd] {
+  cursor: move;
+}
+.cropper-crop[data-v-6dae58fd] {
+  cursor: crosshair;
+}
+.cropper-modal[data-v-6dae58fd] {
+  background: rgba(0, 0, 0, 0.5);
+}
+.cropper-crop-box[data-v-6dae58fd] {
+  /*border: 2px solid #39f;*/
+}
+.cropper-view-box[data-v-6dae58fd] {
+  display: block;
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+  outline: 1px solid #39f;
+  outline-color: rgba(51, 153, 255, 0.75);
+  user-select: none;
+}
+.cropper-view-box img[data-v-6dae58fd] {
+  user-select: none;
+  text-align: left;
+  max-width: none;
+  max-height: none;
+}
+.cropper-face[data-v-6dae58fd] {
+  top: 0;
+  left: 0;
+  background-color: #fff;
+  opacity: 0.1;
+}
+.crop-info[data-v-6dae58fd] {
+  position: absolute;
+  left: 0px;
+  min-width: 65px;
+  text-align: center;
+  color: white;
+  line-height: 20px;
+  background-color: rgba(0, 0, 0, 0.8);
+  font-size: 12px;
+}
+.crop-line[data-v-6dae58fd] {
+  position: absolute;
+  display: block;
+  width: 100%;
+  height: 100%;
+  opacity: 0.1;
+}
+.line-w[data-v-6dae58fd] {
+  top: -3px;
+  left: 0;
+  height: 5px;
+  cursor: n-resize;
+}
+.line-a[data-v-6dae58fd] {
+  top: 0;
+  left: -3px;
+  width: 5px;
+  cursor: w-resize;
+}
+.line-s[data-v-6dae58fd] {
+  bottom: -3px;
+  left: 0;
+  height: 5px;
+  cursor: s-resize;
+}
+.line-d[data-v-6dae58fd] {
+  top: 0;
+  right: -3px;
+  width: 5px;
+  cursor: e-resize;
+}
+.crop-point[data-v-6dae58fd] {
+  position: absolute;
+  width: 8px;
+  height: 8px;
+  opacity: 0.75;
+  background-color: #39f;
+  border-radius: 100%;
+}
+.point1[data-v-6dae58fd] {
+  top: -4px;
+  left: -4px;
+  cursor: nw-resize;
+}
+.point2[data-v-6dae58fd] {
+  top: -5px;
+  left: 50%;
+  margin-left: -3px;
+  cursor: n-resize;
+}
+.point3[data-v-6dae58fd] {
+  top: -4px;
+  right: -4px;
+  cursor: ne-resize;
+}
+.point4[data-v-6dae58fd] {
+  top: 50%;
+  left: -4px;
+  margin-top: -3px;
+  cursor: w-resize;
+}
+.point5[data-v-6dae58fd] {
+  top: 50%;
+  right: -4px;
+  margin-top: -3px;
+  cursor: e-resize;
+}
+.point6[data-v-6dae58fd] {
+  bottom: -5px;
+  left: -4px;
+  cursor: sw-resize;
+}
+.point7[data-v-6dae58fd] {
+  bottom: -5px;
+  left: 50%;
+  margin-left: -3px;
+  cursor: s-resize;
+}
+.point8[data-v-6dae58fd] {
+  bottom: -5px;
+  right: -4px;
+  cursor: se-resize;
+}
+@media screen and (max-width: 500px) {
+.crop-point[data-v-6dae58fd] {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    opacity: 0.45;
+    background-color: #39f;
+    border-radius: 100%;
+}
+.point1[data-v-6dae58fd] {
+    top: -10px;
+    left: -10px;
+}
+.point2[data-v-6dae58fd],
+  .point4[data-v-6dae58fd],
+  .point5[data-v-6dae58fd],
+  .point7[data-v-6dae58fd] {
+    display: none;
+}
+.point3[data-v-6dae58fd] {
+    top: -10px;
+    right: -10px;
+}
+.point4[data-v-6dae58fd] {
+    top: 0;
+    left: 0;
+}
+.point6[data-v-6dae58fd] {
+    bottom: -10px;
+    left: -10px;
+}
+.point8[data-v-6dae58fd] {
+    bottom: -10px;
+    right: -10px;
+}
+}
+</style><link rel="stylesheet" type="text/css" href="/static/css/chunk-27f03f86.a14eed06.css"><script charset="utf-8" src="/static/js/chunk-27f03f86.5642dd75.js"></script><link rel="stylesheet" type="text/css" href="/static/css/chunk-213d46f9.6699f04d.css"><script charset="utf-8" src="/static/js/chunk-213d46f9.5bf0f607.js"></script><script charset="utf-8" src="/static/js/chunk-2d217c6c.0552e504.js"></script><script charset="utf-8" src="/static/js/chunk-c5bd1154.0a2126f9.js"></script><link rel="stylesheet" type="text/css" href="/static/css/chunk-4df08e90.c15bd54f.css"><script charset="utf-8" src="/static/js/chunk-4df08e90.a647fb2c.js"></script></head><body><div id="app"><div class="wrap" style="height: 100%;"><header class="header rel"><div class="headerLink"><div class="container clearfix"><div class="fl">Hi，欢迎来到泰迪内推</div><div class="fr clearfix"><div class="hLink fl"><ul><li><a href="#">企业中心</a></li><!----></ul></div><div class="regLogin fr"><a href="/login" class="logiBtn bgBtn">注册<span>/</span>登录</a><!----></div></div></div><div class="el-dialog__wrapper" style="display: none;"><div role="dialog" aria-modal="true" aria-label="企业已封禁" class="el-dialog" style="margin-top: 15vh; width: 500px;"><div class="el-dialog__header"><span class="el-dialog__title">企业已封禁</span><button type="button" aria-label="Close" class="el-dialog__headerbtn"><i class="el-dialog__close el-icon el-icon-close"></i></button></div><!----><div class="el-dialog__footer"><div class="dialog-footer"><button type="button" class="el-button el-button--primary"><!----><!----><span>确 定</span></button><button type="button" class="el-button el-button--default"><!----><!----><span>取 消</span></button></div></div></div></div><div><div class="el-dialog__wrapper" style="display: none;"><div role="dialog" aria-modal="true" aria-label="企业已封禁" class="el-dialog" style="margin-top: 15vh; width: 500px;"><div class="el-dialog__header"><span class="el-dialog__title">企业已封禁</span><button type="button" aria-label="Close" class="el-dialog__headerbtn"><i class="el-dialog__close el-icon el-icon-close"></i></button></div><!----><div class="el-dialog__footer"><div class="dialog-footer"><button type="button" class="el-button el-button--primary"><!----><!----><span>确 定</span></button><button type="button" class="el-button el-button--default"><!----><!----><span>取 消</span></button></div></div></div></div><div class="el-dialog__wrapper" style="display: none;"><div role="dialog" aria-modal="true" aria-label="系统提示" class="el-dialog" style="margin-top: 15vh; width: 500px;"><div class="el-dialog__header"><span class="el-dialog__title">系统提示</span><button type="button" aria-label="Close" class="el-dialog__headerbtn"><i class="el-dialog__close el-icon el-icon-close"></i></button></div><!----><div class="el-dialog__footer"><div class="dialog-footer"><button type="button" class="el-button el-button--default"><!----><!----><span>取 消</span></button><button type="button" class="el-button el-button--default"><!----><!----><span>前往认证</span></button></div></div></div></div></div></div><div class="container webLogo spaceBetween"><a href="/" class="logo fl"><i class="icons-logoD"></i>泰迪内推<img src="/files?imagePath=/banner/logo_title.png" alt=""></a><div class="nav clearfix"><ul id="menu" class="menu"><li><a href="#/index" class="">首页</a></li><li><a href="#/jobList" class="">找工作</a></li><li><a href="#/moreResume" class="router-link-exact-active on">找人才</a></li><li><a href="#/about" class="">关于我们</a></li></ul></div></div></header><section class="app-main"><section class="indBlock moreJobBlock"><div class="container"><div class="filterJob"><div class="input-with-select el-input el-input-group el-input-group--append el-input--suffix"><!----><input type="text" autocomplete="off" placeholder="请输入关键字" maxlength="20" class="el-input__inner"><!----><span class="el-input__suffix" style="transform: translateX(-117px);"><span class="el-input__suffix-inner"><!----><!----><!----><span class="el-input__count"><span class="el-input__count-inner">
+            0/20
+          </span></span></span><!----></span><div class="el-input-group__append"><button type="button" class="el-button el-button--default"><!----><i class="el-icon-search"></i><span>搜索人才</span></button></div><!----></div><ul><li><span class="liLabel">职能：</span><div role="radiogroup" class="el-radio-group"><label role="radio" aria-checked="true" tabindex="0" class="el-radio-button is-active"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value=""><span class="el-radio-button__inner">不限<!----></span></label><label role="radio" tabindex="-1" class="el-radio-button"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value="数据分析师"><span class="el-radio-button__inner">
+                    数据分析师
+                <!----></span></label><label role="radio" tabindex="-1" class="el-radio-button"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value="数据挖掘工程师"><span class="el-radio-button__inner">
+                    数据挖掘工程师
+                <!----></span></label><label role="radio" tabindex="-1" class="el-radio-button"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value="算法工程师"><span class="el-radio-button__inner">
+                    算法工程师
+                <!----></span></label><label role="radio" tabindex="-1" class="el-radio-button"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value="自然语言处理工程师"><span class="el-radio-button__inner">
+                    自然语言处理工程师
+                <!----></span></label><label role="radio" tabindex="-1" class="el-radio-button"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value="图像处理工程师"><span class="el-radio-button__inner">
+                    图像处理工程师
+                <!----></span></label><label role="radio" tabindex="-1" class="el-radio-button"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value="计算机视觉工程师"><span class="el-radio-button__inner">
+                    计算机视觉工程师
+                <!----></span></label><label role="radio" tabindex="-1" class="el-radio-button"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value="机器学习工程师"><span class="el-radio-button__inner">
+                    机器学习工程师
+                <!----></span></label><label role="radio" tabindex="-1" class="el-radio-button"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value="Hadoop大数据开发工程师"><span class="el-radio-button__inner">
+                    Hadoop大数据开发工程师
+                <!----></span></label><label role="radio" tabindex="-1" class="el-radio-button"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value="其他"><span class="el-radio-button__inner">
+                    其他
+                <!----></span></label></div></li><li><span class="liLabel">城市：</span><div role="radiogroup" class="el-radio-group"><label role="radio" aria-checked="true" tabindex="0" class="el-radio-button is-active"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value=""><span class="el-radio-button__inner">不限<!----></span></label><label role="radio" tabindex="-1" class="el-radio-button"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value="广州"><span class="el-radio-button__inner">
+                    广州
+                <!----></span></label><label role="radio" tabindex="-1" class="el-radio-button"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value="深圳"><span class="el-radio-button__inner">
+                    深圳
+                <!----></span></label><label role="radio" tabindex="-1" class="el-radio-button"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value="天津"><span class="el-radio-button__inner">
+                    天津
+                <!----></span></label><label role="radio" tabindex="-1" class="el-radio-button"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value="佛山"><span class="el-radio-button__inner">
+                    佛山
+                <!----></span></label><label role="radio" tabindex="-1" class="el-radio-button"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value="武汉"><span class="el-radio-button__inner">
+                    武汉
+                <!----></span></label><label role="radio" tabindex="-1" class="el-radio-button"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value="北京"><span class="el-radio-button__inner">
+                    北京
+                <!----></span></label><label role="radio" tabindex="-1" class="el-radio-button"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value="南宁"><span class="el-radio-button__inner">
+                    南宁
+                <!----></span></label><label role="radio" tabindex="-1" class="el-radio-button"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value="重庆"><span class="el-radio-button__inner">
+                    重庆
+                <!----></span></label><label role="radio" tabindex="-1" class="el-radio-button"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value="上海"><span class="el-radio-button__inner">
+                    上海
+                <!----></span></label><label role="radio" tabindex="-1" class="el-radio-button"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value="菏泽"><span class="el-radio-button__inner">
+                    菏泽
+                <!----></span></label></div></li><li><span class="liLabel">技能：</span><div role="radiogroup" class="el-radio-group"><label role="radio" aria-checked="true" tabindex="0" class="el-radio-button is-active"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value=""><span class="el-radio-button__inner">不限<!----></span></label><label role="radio" tabindex="-1" class="el-radio-button"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value="数据建模"><span class="el-radio-button__inner">
+                    数据建模
+                <!----></span></label><label role="radio" tabindex="-1" class="el-radio-button"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value="数据预处理"><span class="el-radio-button__inner">
+                    数据预处理
+                <!----></span></label><label role="radio" tabindex="-1" class="el-radio-button"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value="数据计算"><span class="el-radio-button__inner">
+                    数据计算
+                <!----></span></label><label role="radio" tabindex="-1" class="el-radio-button"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value="数据查询"><span class="el-radio-button__inner">
+                    数据查询
+                <!----></span></label><label role="radio" tabindex="-1" class="el-radio-button"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value="数据分析"><span class="el-radio-button__inner">
+                    数据分析
+                <!----></span></label><label role="radio" tabindex="-1" class="el-radio-button"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value="数据挖掘"><span class="el-radio-button__inner">
+                    数据挖掘
+                <!----></span></label><label role="radio" tabindex="-1" class="el-radio-button"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value="数据可视化"><span class="el-radio-button__inner">
+                    数据可视化
+                <!----></span></label><label role="radio" tabindex="-1" class="el-radio-button"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value="机器学习"><span class="el-radio-button__inner">
+                    机器学习
+                <!----></span></label><label role="radio" tabindex="-1" class="el-radio-button"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value="神经网络"><span class="el-radio-button__inner">
+                    神经网络
+                <!----></span></label><label role="radio" tabindex="-1" class="el-radio-button"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value="机器人技术"><span class="el-radio-button__inner">
+                    机器人技术
+                <!----></span></label><label role="radio" tabindex="-1" class="el-radio-button"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value="专家系统"><span class="el-radio-button__inner">
+                    专家系统
+                <!----></span></label><label role="radio" tabindex="-1" class="el-radio-button"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value="模糊识别"><span class="el-radio-button__inner">
+                    模糊识别
+                <!----></span></label><label role="radio" tabindex="-1" class="el-radio-button"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value="图像处理"><span class="el-radio-button__inner">
+                    图像处理
+                <!----></span></label><label role="radio" tabindex="-1" class="el-radio-button"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value="语音识别"><span class="el-radio-button__inner">
+                    语音识别
+                <!----></span></label><label role="radio" tabindex="-1" class="el-radio-button"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value="自然语言处理"><span class="el-radio-button__inner">
+                    自然语言处理
+                <!----></span></label><label role="radio" tabindex="-1" class="el-radio-button"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value="分布式计算"><span class="el-radio-button__inner">
+                    分布式计算
+                <!----></span></label><label role="radio" tabindex="-1" class="el-radio-button"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value="计算引擎开发"><span class="el-radio-button__inner">
+                    计算引擎开发
+                <!----></span></label><label role="radio" tabindex="-1" class="el-radio-button"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value="接口开发"><span class="el-radio-button__inner">
+                    接口开发
+                <!----></span></label><label role="radio" tabindex="-1" class="el-radio-button"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value="数据通信"><span class="el-radio-button__inner">
+                    数据通信
+                <!----></span></label><label role="radio" tabindex="-1" class="el-radio-button"><input type="radio" tabindex="-1" class="el-radio-button__orig-radio" value="系统测试"><span class="el-radio-button__inner">
+                    系统测试
+                <!----></span></label></div></li></ul></div><div class="mianContent clearfix"><div class="jobListBlock"><div class="note"><h3>推荐人才</h3><p>您正在浏览系统推荐人才，如需查看更多，请前往
+            <a class="el-link el-link--primary is-underline"><!----><span class="el-link--inner">企业中心</span><!----></a></p></div><ul class="jobListMore"><div><li class="personnelInfo"><div class="top"><img src="/static/img/woman.d6ec9f04.png" alt=""><div class="jobInfo spaceBetween"><div class="left"><p class="tit"><span class="position">蔡女士</span><span class="textInfo"><span>毕业找工作</span><span>6年工作经验</span><span>山东省菏泽市曹县</span></span></p><p>期望职能
+                                <span class="expectPosition">其他</span><span>3-6K•月</span></p><p>技能勋章</p><p class="tag"></p></div><div class="companyInfo"><p>简历关键词</p><p class="tag"></p><div class="bot"><div class="dateTime">2023-04-18 发布</div></div></div></div></div></li></div><div><li class="personnelInfo"><div class="top"><img src="/static/img/man.fce55e95.png" alt=""><div class="jobInfo spaceBetween"><div class="left"><p class="tit"><span class="position">特先生</span><span class="textInfo"><span>毕业找工作</span><span>1年工作经验</span><span>天津市天津市河东区</span></span></p><p>期望职能
+                                <span class="expectPosition">图像处理工程师&nbsp;&nbsp;自然语言处理工程师</span><span>4-9K•月</span></p><p>技能勋章</p><p class="tag"></p></div><div class="companyInfo"><p>简历关键词</p><p class="tag"></p><div class="bot"><div class="dateTime">2023-04-18 发布</div></div></div></div></div></li></div><div><li class="personnelInfo"><div class="top"><img src="/static/img/woman.d6ec9f04.png" alt=""><div class="jobInfo spaceBetween"><div class="left"><p class="tit"><span class="position">傻女士</span><span class="textInfo"><span>毕业找工作</span><span>5年工作经验</span><span>天津市天津市河东区</span></span></p><p>期望职能
+                                <span class="expectPosition">数据挖掘工程师&nbsp;&nbsp;算法工程师&nbsp;&nbsp;自然语言处理工程师</span><span>3-5K•月</span></p><p>技能勋章</p><p class="tag"></p></div><div class="companyInfo"><p>简历关键词</p><p class="tag"></p><div class="bot"><div class="dateTime">2023-04-17 发布</div></div></div></div></div></li></div><div><li class="personnelInfo"><div class="top"><img src="/static/img/man.fce55e95.png" alt=""><div class="jobInfo spaceBetween"><div class="left"><p class="tit"><span class="position">练先生</span><span class="textInfo"><span>毕业找工作</span><span>2年工作经验</span><span>上海市上海市黄浦区</span></span></p><p>期望职能
+                                <span class="expectPosition">数据挖掘工程师&nbsp;&nbsp;数据分析师&nbsp;&nbsp;算法工程师</span><span>10-15K•月</span></p><p>技能勋章</p><p class="tag"></p></div><div class="companyInfo"><p>简历关键词</p><p class="tag"></p><div class="bot"><div class="dateTime">2023-04-16 发布</div></div></div></div></div></li></div><div><li class="personnelInfo"><div class="top"><img src="/static/img/woman.d6ec9f04.png" alt=""><div class="jobInfo spaceBetween"><div class="left"><p class="tit"><span class="position">丽女士</span><span class="textInfo"><span>毕业找工作</span><span>3年工作经验</span><span>北京市北京市东城区</span></span></p><p>期望职能
+                                <span class="expectPosition">数据挖掘工程师&nbsp;&nbsp;自然语言处理工程师&nbsp;&nbsp;数据分析师</span><span>7-12K•月</span></p><p>技能勋章</p><p class="tag"></p></div><div class="companyInfo"><p>简历关键词</p><p class="tag"></p><div class="bot"><div class="dateTime">2023-04-15 发布</div></div></div></div></div></li></div><div><li class="personnelInfo"><div class="top"><img src="/static/img/woman.d6ec9f04.png" alt=""><div class="jobInfo spaceBetween"><div class="left"><p class="tit"><span class="position">赵女士</span><span class="textInfo"><span>毕业找工作</span><span>无经验</span><span>浙江省杭州市滨江区</span></span></p><p>期望职能
+                                <span class="expectPosition">数据分析师</span><span>3-6K•月</span></p><p>技能勋章</p><p class="tag"></p></div><div class="companyInfo"><p>简历关键词</p><p class="tag"><i>哈哈</i><i>呵呵</i></p><div class="bot"><div class="dateTime">2023-04-14 发布</div></div></div></div></div></li></div><div><li class="personnelInfo"><div class="top"><img src="/static/img/man.fce55e95.png" alt=""><div class="jobInfo spaceBetween"><div class="left"><p class="tit"><span class="position">林先生</span><span class="textInfo"><!----><span>无经验</span><span>广东省广州市海珠区</span></span></p><p>期望职能
+                                <span class="expectPosition">数据分析师&nbsp;&nbsp;数据挖掘工程师</span><span>4-6K•月</span></p><p>技能勋章</p><p class="tag"></p></div><div class="companyInfo"><p>简历关键词</p><p class="tag"><i>数据分析</i><i>数据挖掘</i></p><div class="bot"><div class="dateTime">2023-04-14 发布</div></div></div></div></div></li></div><div><li class="personnelInfo"><div class="top"><img src="/static/img/man.fce55e95.png" alt=""><div class="jobInfo spaceBetween"><div class="left"><p class="tit"><span class="position">中先生</span><span class="textInfo"><span>毕业找工作</span><span>无经验</span><span>北京市北京市东城区</span></span></p><p>期望职能
+                                <span class="expectPosition">数据分析师</span><span>3-4K•月</span></p><p>技能勋章</p><p class="tag"></p></div><div class="companyInfo"><p>简历关键词</p><p class="tag"></p><div class="bot"><div class="dateTime">2023-04-13 发布</div></div></div></div></div></li></div><div><li class="personnelInfo"><div class="top"><img src="/static/img/man.fce55e95.png" alt=""><div class="jobInfo spaceBetween"><div class="left"><p class="tit"><span class="position">什先生</span><span class="textInfo"><span>毕业找工作</span><span>2年工作经验</span><span>天津市天津市河东区</span></span></p><p>期望职能
+                                <span class="expectPosition">机器学习工程师&nbsp;&nbsp;数据挖掘工程师</span><span>3-5K•月</span></p><p>技能勋章</p><p class="tag"></p></div><div class="companyInfo"><p>简历关键词</p><p class="tag"><i>1</i></p><div class="bot"><div class="dateTime">2023-04-11 发布</div></div></div></div></div></li></div><div><li class="personnelInfo"><div class="top"><img src="/static/img/man.fce55e95.png" alt=""><div class="jobInfo spaceBetween"><div class="left"><p class="tit"><span class="position">李先生</span><span class="textInfo"><span>毕业找工作</span><span>10年以上工作经验</span><span>北京市北京市海淀区</span></span></p><p>期望职能
+                                <span class="expectPosition">其他</span><span>10-14K•月</span></p><p>技能勋章</p><p class="tag"></p></div><div class="companyInfo"><p>简历关键词</p><p class="tag"><i>鸡你太美</i></p><div class="bot"><div class="dateTime">2023-04-10 发布</div></div></div></div></div></li></div></ul><div class="pagination"><span class="paginationTotal">共 10926 条</span><div class="el-pagination"><button type="button" disabled="disabled" class="btn-prev"><i class="el-icon el-icon-arrow-left"></i></button><ul class="el-pager"><li class="number active">1</li><!----><li class="number">2</li><li class="number">3</li><li class="number">4</li><li class="number">5</li><li class="number">6</li><li class="el-icon more btn-quicknext el-icon-more"></li><li class="number">1093</li></ul><button type="button" class="btn-next"><i class="el-icon el-icon-arrow-right"></i></button><span class="el-pagination__jump">前往<div class="el-input el-pagination__editor is-in-pagination"><!----><input type="number" autocomplete="off" min="1" max="1093" class="el-input__inner"><!----><!----><!----><!----></div>页</span></div></div></div><div data-v-6b1df274="" class="imgBlock"><ul data-v-6b1df274=""><li data-v-6b1df274=""><a data-v-6b1df274=""><img data-v-6b1df274="" src="/files?imagePath=/banner/side1.png"></a></li><li data-v-6b1df274=""><a data-v-6b1df274=""><img data-v-6b1df274="" src="/files?imagePath=/banner/side2.png"></a></li><li data-v-6b1df274=""><a data-v-6b1df274=""><img data-v-6b1df274="" src="/files?imagePath=/banner/side3.png"></a></li><li data-v-6b1df274=""><a data-v-6b1df274=""><img data-v-6b1df274="" src="/files?imagePath=/banner/side4.png"></a></li></ul></div></div></div></section></section><footer class="footer"><div class="webInfo container clearfix"><div class="fLogo"><h3><i class="icons-logoD"></i>泰迪内推</h3><p>邮箱：services@tipdm.com</p><p>热线：400-684-0020</p><p>地址：广州黄埔区开泰大道36号</p></div><div class="fLink"><dl><dt>泰迪云课堂</dt><dd><li><a href="https://edu.tipdm.org/" target="_blank">在线课程</a></li><li><a href="https://edu.tipdm.org/classroom/explore/shixi?orderBy=recommendedSeq" target="_blank">实训实习</a></li></dd></dl></div><div class="fLink"><dl><dt>数睿思竞赛</dt><dd><li><a href="https://www.tipdm.org:20013/" target="_blank">数据挖掘挑战赛</a></li><li><a href="https://www.tipdm.org:20013/" target="_blank">数据分析技能赛</a></li></dd></dl></div><div class="fLink"><dl><dt>泰迪教育</dt><dd><li><a href="http://cbda.tipdm.org/kczx/index.jhtml" target="_blank">高薪就业培训</a></li><li><a href="http://cbda.tipdm.org/ksrz/index.jhtml" target="_blank">职业技术培训</a></li></dd></dl></div><div class="fLink"><dl><dt>企业官网</dt><dd><li><a href="http://www.tipdm.com/" target="_blank">泰迪科技</a></li><li><a href="http://www.tipdm.com/1Xzs/index.jhtml" target="_blank">1+X证书认证</a></li></dd></dl></div><div class="fLink"><dl><dt>帮助中心</dt><dd><li><a href="#" target="_blank">隐私政策</a></li><li><a href="http://www.tipdm.com/lxwm/index.jhtml" target="_blank">联系我们</a></li></dd></dl></div><div class="weixin"><img src="/static/img/weixin.dc2963f7.png" alt="官方公众号" width="120"><p>关注“泰迪学社”</p></div></div><div class="copyright"><div class="container">Copyright © GuangDong TipDM Intelligent Technology Co.,Ltd. <span id="year">2021</span> &nbsp;&nbsp; 广东泰迪智能科技股份有限公司 &nbsp;&nbsp; <a href="http://beian.miit.gov.cn" target="_blank">粤ICP备14098620号</a> &nbsp;&nbsp; <a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=44011202000980" target="_blank">粤公网安备 44011202000988号</a></div></div></footer><div class="sNav" style="position: fixed; top: calc(50% + 26px); display: block;"><!----></div></div></div><script src="/static/js/chunk-vendors.ce9424b8.js"></script><script src="/static/js/frontend.6f4ec638.js"></script><a href="javascript:void(0)" id="transButton"></a><div id="transBox"></div></body><div style="all: initial;"><div id="__hcfy__" style="all: initial;"></div></div></html>
