@@ -3,60 +3,75 @@ import json
 from selenium import webdriver
 from selenium.webdriver.edge.service import Service
 import pandas as pd #数据导出
-
-df=pd.DataFrame(columns=["序列","求职者ID","姓名","预期岗位","经验","学历","最低薪资","最高薪资","所在地"])
-
+df=pd.DataFrame(columns=["序号","招聘信息ID","企业名称","招聘岗位","经验要求","学历要求","最低薪资","最高薪资","招聘人数","招聘发布时间","营业范畴","公私类型","团队规模","职业类型关键词1","职业关键词1","职位福利","更多岗位要求详细信息"])
+#"序列","招聘信息ID","企业名称","招聘岗位","经验要求","学历要求","最低薪资","最高薪资","招聘人数","招聘发布时间","营业范畴","公私类型","团队规模","职业类型关键词1","职业关键词1","职位福利","更多岗位要求详细信息"
 
 # 初始化webdriver
 wd = webdriver.Chrome(service=Service(r'C:\Program Files\Google\Chrome\Application\chromedriver.exe'))
 
 # 打开起始页面
-start_url = 'https://www.5iai.com/#/moreResume'
+start_url = 'https://www.5iai.com/#/jobList'
 wd.get(start_url)
 
-
 num=0
-for page in range(1,1094):
+for page in range(1,160):
     headers = {
-    'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.48'
+        'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.48'
     }
 
-    url = f'https://www.5iai.com/api/resume/baseInfo/public/es?pageSize=10&pageNumber={page}&function=&skills=&workplace=&keyword='
+    url = f'https://www.5iai.com/api/enterprise/job/public/es?pageSize=10&pageNumber={page}&willNature=&function=&wageList=%5B%5D&workplace=&keyword='
     data1 = {
-        'pageSize':1094,
+        'pageSize':10,
         'pageNumber':page
     }
     page +=1
     response = requests.get(url=url, headers=headers,data=data1)
 
-
     data = json.loads(response.text)
 
     res = data['data']['content']
 
-
     for index in res:
-        #1
         id = index["id"] # id
-        userName = index['username'] #称谓
-        gender = index['gender']# 性别
-        expect = index['expectPosition']# 期望岗位
-        # expect = ''.join(index['expectPosition'])# 期望岗位
-        jobStatus = index['jobStatus']# 在职状态1，2，3 毕业找工作， ，在职换工作
-        minmoney = index['willSalaryStart']# 最低工资
-        maxmoney = index['willSalaryEnd']# 最高工资
-        city = index['city']#所在地
-        # city = ''.join(index['city'])#所在地
-        education = index['jobStatus']#学历要求
+        positionName = index['positionName'] #职位名字
+        minmoney = index['minimumWage']# 最低薪资
+        maxmoney = index['maximumWage']# 最高工资
+        education = index['educationalRequirements']#学历要求
         body_num = ['count']# 招聘人数
         date = index['updateTime']# 招聘发布时间
-        # date = index['']# 招聘详细页
-        exp = index['exp']  # 工作经验
-        updateTime = index['updateTime']# 提交时间
+        exp = index['exp']# 经验要求
+        shortName = index['enterpriseExtInfo']['shortName']# 企业名称
+        industry = index['enterpriseExtInfo']['industry']# 营业范畴
+        econKind = index['enterpriseExtInfo']['econKind']# 公私类型
+        personScope = index['enterpriseExtInfo']['personScope']# 团队规模
+        labelName1 = index['keywordList'][0]['labelName']# 职业类型关键词1
+        # labelName2 = index['keywordList'][1]['labelName']# 职业关键词类型2
+        labelTypeName1 = index['keywordList'][0]['labelTypeName'] #职业关键词1
+        # labelTypeName2 = index['keywordList'][1]['labelTypeName'] #职业关键词2
 
-        print('',id, userName, expect, exp, education, minmoney, maxmoney, city,education,body_num,date,exp,updateTime)  # count
+
+        headers1 = {
+            'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.48'
+        }
+        url1 = f'https://www.5iai.com/api/enterprise/job/public?id={id}'
+
+        response1 = requests.get(url=url1, headers=headers1)
+
+        data1 = json.loads(response1.text)
+
+        res1 = data1['data']
+
+        welfare=res1['welfare']#职位福利
+        jobRequiredments=res1['jobRequiredments']#更多要求详细
+
+
+        print( num,id,shortName,positionName,exp,education,minmoney,maxmoney,body_num,date,industry, econKind, personScope,labelName1,labelTypeName1,welfare,jobRequiredments)  # count
+        #"序列","招聘信息ID","企业名称","招聘岗位","经验要求","学历要求","最低薪资","最高薪资","招聘人数","招聘发布时间","营业范畴","公私类型","团队规模","职业类型关键词1","职业关键词1","职位福利","更多岗位要求详细信息
 
         num += 1
-        df.loc[len(df.index)] = [num, id, userName, expect, exp, education, minmoney, maxmoney, city,education,body_num,date,exp,updateTime]  # 每打印一页就把这些插入
 
-    df.to_excel("result1-2.xlsx", index=False, sheet_name="result1-2", na_rep="")
+        # 每打印一页就把这些插入excel
+        df.loc[len(df.index)] = [num,id,shortName,positionName,exp,education,minmoney,maxmoney,body_num,date,industry, econKind, personScope,labelName1,labelTypeName1,welfare,jobRequiredments]
+
+
+df.to_excel("result1-1.xlsx", sheet_name="result1-1",index=False, na_rep="")
