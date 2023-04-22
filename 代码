@@ -5,7 +5,6 @@ from selenium.webdriver.edge.service import Service
 import pandas as pd #数据导出
 df=pd.DataFrame(columns=["序号","招聘信息ID","企业名称","招聘岗位","经验要求","学历要求","最低薪资","最高薪资","招聘人数","招聘发布时间","营业范畴","公私类型","团队规模","职业类型关键词1","职业关键词1","职位福利","更多岗位要求详细信息"])
 #"序列","招聘信息ID","企业名称","招聘岗位","经验要求","学历要求","最低薪资","最高薪资","招聘人数","招聘发布时间","营业范畴","公私类型","团队规模","职业类型关键词1","职业关键词1","职位福利","更多岗位要求详细信息"
-
 # 初始化webdriver
 wd = webdriver.Chrome(service=Service(r'C:\Program Files\Google\Chrome\Application\chromedriver.exe'))
 
