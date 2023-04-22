@@ -1,95 +1,62 @@
 import requests
-from bs4 import BeautifulSoup
-import pandas as pd
-import seaborn as sns
-url = 'https://www.5iai.com/#/index'
-headers = {
-'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.48'
-}
-respose = requests.get(url,headers=headers)
-html = respose.text
-soup = BeautifulSoup(html,'html.parser')
-job_list = soup.findAll('div',class_='jbo_list')[0]
-jobs = soup.findAll('div',class_='job-item')
-for job in jobs:
-    job_id = job['data-jobid']
-    company_name = job.find("div", class_="company-name").text
-    job_name = job.find("a", class_="job-name").text  # 职位名称
-    salary = job.find("span", class_="salary").text  # 薪资
-    education = job.find("span", class_="education").text  # 学历要
-    experience = job.find("span", class_="experience").text  # 工作
-    resume_list = soup.find_all("div", class_="resume-list")[0]  # 获取求职信息容器
-    resumes = resume_list.find_all("div", class_="resume-item")  # 获取所有求职信息
-    for resume in resumes:
-        # 提取关键信息
-        resume_id = resume["data-resumeid"]  # 求职者 ID
-        name = resume.find("div", class_="name").text  # 求职者姓名
-        wanted_job = resume.find("div", class_="wanted-job").text  # 求职意向
-        education = resume.find("div", class_="education").text  # 学历
-        work_years = resume.find("div", class_="work-years").text  #
+import json
+from selenium import webdriver
+from selenium.webdriver.edge.service import Service
+import pandas as pd #数据导出
+
+df=pd.DataFrame(columns=["序列","求职者ID","姓名","预期岗位","经验","学历","最低薪资","最高薪资","所在地"])
 
 
-job_data = [] # 存储招聘信息
-for job in jobs:
- # 提取关键信息
- job_id = job["data-jobid"] # 招聘信息 ID
- company_name = job.find("div", class_="company-name").text
-# 公司名称
-job_name = job.find("a", class_="job-name").text # 职位名称
-salary = job.find("span", class_="salary").text # 薪资
-education = job.find("span", class_="education").text # 学历要
+# 初始化webdriver
+wd = webdriver.Chrome(service=Service(r'C:\Program Files\Google\Chrome\Application\chromedriver.exe'))
 
-experience = job.find("span", class_="experience").text # 工作
-job_dict = {
- "job_id": job_id,
- "company_name": company_name,
- "job_name": job_name,
- "salary": salary,
- "education": education,
- "experience": experience
- }
-job_data.append(job_dict)
-resume_data = [] # 存储求职信息
-for resume in resumes:
-    resume_id = resume["data-resumeid"] # 求职者 ID
-    name = resume.find("div", class_="name").text # 求职者姓名
-    wanted_job = resume.find("div", class_="wanted-job").text # 求职意向
-    education = resume.find("div", class_="education").text # 学历
-    work_years = resume.find("div", class_="work-years").text #
-    resume_dict = {
- "resume_id": resume_id,
- "name": name,
- "wanted_job": wanted_job,
- "education": education,
- "work_years": work_years
- }
-    resume_data.append(resume_dict)
-# 转换为 DataFrame 格式
-job_df = pd.DataFrame(job_data)
-resume_df = pd.DataFrame(resume_data)
-# 去除重复数据
-job_df.drop_duplicates(subset=["job_id"], keep="first", inplace=True)
-resume_df.drop_duplicates(subset=["resume_id"], keep="first",
-inplace=True)
-# 去除缺失数据和不合法数据
-job_df.dropna(inplace=True)
-resume_df.dropna(inplace=True)
-job_df = job_df[job_df["education"].str.contains("本科|硕士|博士")]
-resume_df = resume_df[resume_df["education"].str.contains("本科|硕士|博士")]
-# 数据格式转换
-job_df["salary"] = job_df["salary"].apply(lambda x: int(x[:-1]) * 1000 if
-"k" in x else int(x))
-resume_df["work_years"] = resume_df["work_years"].apply(lambda x:
-int(x[:-1]) if "年" in x else 0)
-import matplotlib.pyplot as plt
-# 绘制招聘与求职信息的条形图
-job_heatmap = pd.pivot_table(job_df, values="salary",
-index=["experience"], columns=["education"], aggfunc="mean")
-resume_heatmap = pd.pivot_table(resume_df, values="work_years",
-index=["wanted_job"], columns=["education"], aggfunc="mean")
-fig, ax = plt.subplots(1, 2, figsize=(12, 6))
-job_heatmap = pd.pivot_table(job_df, values="salary",
-index=["experience"], columns=["education"], aggfunc="mean")
-resume_heatmap = pd.pivot_table(resume_df, values="work_years",
-index=["wanted_job"], columns=["education"], aggfunc="mean")
-fig, ax = plt.subplots(1, 2, figsize=(12, 6))
+# 打开起始页面
+start_url = 'https://www.5iai.com/#/moreResume'
+wd.get(start_url)
+
+
+num=0
+for page in range(1,1094):
+    headers = {
+    'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.48'
+    }
+
+    url = f'https://www.5iai.com/api/resume/baseInfo/public/es?pageSize=10&pageNumber={page}&function=&skills=&workplace=&keyword='
+    data1 = {
+        'pageSize':1094,
+        'pageNumber':page
+    }
+    page +=1
+    response = requests.get(url=url, headers=headers,data=data1)
+
+
+    data = json.loads(response.text)
+
+    res = data['data']['content']
+
+
+    for index in res:
+        #1
+        id = index["id"] # id
+        userName = index['username'] #称谓
+        gender = index['gender']# 性别
+        expect = index['expectPosition']# 期望岗位
+        # expect = ''.join(index['expectPosition'])# 期望岗位
+        jobStatus = index['jobStatus']# 在职状态1，2，3 毕业找工作， ，在职换工作
+        minmoney = index['willSalaryStart']# 最低工资
+        maxmoney = index['willSalaryEnd']# 最高工资
+        city = index['city']#所在地
+        # city = ''.join(index['city'])#所在地
+        education = index['jobStatus']#学历要求
+        body_num = ['count']# 招聘人数
+        date = index['updateTime']# 招聘发布时间
+        # date = index['']# 招聘详细页
+        exp = index['exp']  # 工作经验
+        updateTime = index['updateTime']# 提交时间
+
+        print('',id, userName, expect, exp, education, minmoney, maxmoney, city,education,body_num,date,exp,updateTime)  # count
+
+        num += 1
+        df.loc[len(df.index)] = [num, id, userName, expect, exp, education, minmoney, maxmoney, city,education,body_num,date,exp,updateTime]  # 每打印一页就把这些插入
+
+    df.to_excel("result1-2.xlsx", index=False, sheet_name="result1-2", na_rep="")
